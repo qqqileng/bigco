@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Verizon Virtual Teller</h1>
+<p>Please select your preferences to get in to the queue.</p>
+
+<p>
+	<strong>
+		Select your language preference:
+	</strong>
+</p> 
+
+<script>
+$(function()
+{
+  $(".js-example-basic-multiple").select2();
+});
+</script>
+<select class="js-example-basic-multiple" multiple="multiple">
+	<option value="English">English</option>
+	<option value="Spanish">Spanish</option>
+	<option value="Italian">Italian</option>
+	<option value="French">French</option>
+	<option value="Japanese">Japanese</option>
+	<option value="Chinese">Chinese</option>
+</select>
+
+<script>
+	document.getElementById("clickMe").onclick = getInputValue;
+    function getInputValue(){
+        var e = document.getElementById('language'); // Get the list where we will place our authors
+		var strUser = e.options[e.selectedIndex].value;
+		strUser.download = 'myFile.txt';
+		strUser.click();
+    }
+ </script>
+
+<p><strong>Select your services:</strong></p> <select multiple size="6"> <option value="English">Card</option> <option value="Spanish">Transfer</option> <option value="Italian">Check</option> <option value="French">Savings</option> <option value="Japanese">Loan</option> <option value="Chinese">Mortgage</option> </select>
+
+<p><strong>Select your location preference:</strong></p> <select multiple size="6"> <option value="English">US</option> <option value="Spanish">UK</option> <option value="Italian">Australia</option></select>
+
+
+
+</body>
+</html>
