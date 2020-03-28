@@ -46,7 +46,64 @@ $(function()
 
 <p><strong>Select your location preference:</strong></p> <select multiple size="6"> <option value="English">US</option> <option value="Spanish">UK</option> <option value="Italian">Australia</option></select>
 
+ 	<div class="dropdown">
+		 <button onclick="myFunction ()" class="dropbtn">Select your language preference:</button>
+		 <div id="myDropdown" class="dropdown-content">
+			 <a href="#">English</a>
+			 <a href="#">Spanish</a>
+			 <a href="#">Italian</a>
+			 <a href="#">French</a>
+			 <a href="#">Japanese</a>
+			 <a href="#">Chinese</a>
+			 <a href="#">Korean</a>
+			 <a href="#">Tagalog</a>
+		 </div>
+	 </div>
 
+	 <script>
+		 function myFunction(){
+			 document.getElementById("myDropdown").classList.toggle("show");
+		 }
+		 window.onclick=function(event) {
+			 if (!event.target.matches('.dropbtn')) {
+				 var dropdowns = document.getElementsByClassName("dropdown-content");
+				 var i;
+				 for (i = 0; i < dropdowns.length; i++) {
+					 var openDropdown = dropdowns[i];
+					 if (openDropdown.classList.contains('show')) {
+						 openDropdown.classList.remove('show');
+					 }
+				 }
+			 }
+		 }
+	 </script>
+
+	 <!--
+
+	 <div class="droptest2">
+	 <select name="langitems" id="langitems">
+		<option value="English">English</option>
+		<option value="Spanish">Spanish</option>
+		<option value="French">French</option>
+		<option value="Italian">Italian</option>
+		<option value="Chinese">Chinese</option>
+		<option value="Japanese">Japanese</option>
+		<option value="Korea">Korean</option>
+		<option value="Tagalog">Tagalog</option>
+	 </select>
+
+	 <input type="text" name="txtlang" id="txtlang" onClick="pickLang()">
+
+	 <script>
+		 var select = document.getElementById('langitems');
+		 var input = document.getelementById('txtlang');
+		 select.onchange = function() {
+			 input.value = select.value;
+		 }
+	 </script>
+	</div>
+
+	-->
 
 </body>
 </html>
