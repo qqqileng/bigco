@@ -1,1000 +1,501 @@
-name,Capri Maddox,language,English,Spanish,Italian,service,Consumer,Business,Investment,location,NJ,availability,0
-name,Kellie Hull,language,English,Portugese,Spanish,service,Investment,Home Loan,Business,location,SC,availability,1
-name,Lashaunda Poulin,language,English,Chinese,Spanish,service,Consumer,Business,Home Loan,location,NJ,availability,0
-name,Doug Carney,language,English,French,Tagalog,service,Consumer,Business,Investment,location,NC,availability,1
-name,Malory Hart,language,English,Spanish,Ukranian,service,Consumer,Business,Home Loan,location,TX,availability,0
-name,Termaine Apple,language,English,Spanish,Tagalog,service,Business,Investment,Consumer,location,NC,availability,0
-name,Ambre Perales,language,English,Spanish,Chinese,service,Business,Consumer,Investment,location,NC,availability,1
-name,Lavar Irvine,language,English,Spanish,French,service,Consumer,Home Loan,Investment,location,CA,availability,0
-name,Vasiliki Fincher,language,English,Spanish,Polish,service,Home Loan,Investment,Consumer,location,AZ,availability,0
-name,Tiffay Santiago,language,English,Hindi,Spanish,service,Investment,Home Loan,Consumer,location,NJ,availability,0
-name,Brandi Wasson,language,English,French,Spanish,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Korina Sewell,language,English,Spanish,Romanian,service,Investment,Business,Consumer,location,GA,availability,1
-name,Kristan Desjardins,language,English,Spanish,Tagalog,service,Business,Investment,Home Loan,location,NY,availability,1
-name,Marchello Spriggs,language,English,Spanish,Hindi,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Fred Yarbrough,language,English,Chinese,Spanish,service,Consumer,Home Loan,Investment,location,MO,availability,1
-name,Barbie Harden,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Cindi Emery,language,English,Vietnamese,Spanish,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Rance Griffith,language,English,Spanish,Russian,service,Investment,Home Loan,Business,location,TX,availability,1
-name,Savanna Faust,language,English,Spanish,Portugese,service,Consumer,Business,Home Loan,location,GA,availability,1
-name,Tuesday Vanwinkle,language,English,Spanish,Korean,service,Consumer,Investment,Business,location,FL,availability,0
-name,Roshonda Putnam,language,English,Spanish,Chinese,service,Business,Consumer,Home Loan,location,CA,availability,0
-name,Tashena Shultz,language,English,Italian,Spanish,service,Home Loan,Consumer,Investment,location,FL,availability,1
-name,Geralyn Haggerty,language,English,Spanish,Tagalog,service,Consumer,Business,Investment,location,AZ,availability,0
-name,Jannelle Lovejoy,language,English,Vietnamese,Spanish,service,Investment,Consumer,Business,location,TX,availability,0
-name,Remy Barajas,language,English,Spanish,Chinese,service,Consumer,Home Loan,Business,location,FL,availability,1
-name,Howard Harmon,language,English,Spanish,Japanese,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Syed Mccarty,language,English,Spanish,Chinese,service,Investment,Home Loan,Consumer,location,FL,availability,1
-name,Jaimie Her,language,English,Tagalog,Spanish,service,Consumer,Home Loan,Investment,location,GA,availability,1
-name,Timeka Crocker,language,English,Spanish,Korean,service,Home Loan,Consumer,Investment,location,CA,availability,0
-name,Rodger Shipman,language,English,Spanish,German,service,Business,Home Loan,Investment,location,NH,availability,0
-name,Mattew Means,language,English,Spanish,Greek,service,Investment,Business,Home Loan,location,NM,availability,1
-name,Spenser Munn,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Joseluis Boudreau,language,English,Spanish,French,service,Investment,Business,Home Loan,location,FL,availability,1
-name,Alaina Ziegler,language,English,Spanish,Vietnamese,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Shericka Dougherty,language,English,Spanish,Romanian,service,Home Loan,Investment,Consumer,location,MO,availability,1
-name,Shena Mahoney,language,English,Spanish,Arabic,service,Investment,Business,Consumer,location,NM,availability,0
-name,Rosana Beeson,language,English,Greek,Spanish,service,Home Loan,Business,Consumer,location,DC,availability,0
-name,Toi Mcadams,language,English,Portugese,Tagalog,service,Home Loan,Consumer,Investment,location,OR,availability,0
-name,Jazzmin Crocker,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,MI,availability,1
-name,Tamisha Mcgowan,language,English,Chinese,Greek,service,Business,Consumer,Home Loan,location,MO,availability,1
-name,Launa Colby,language,English,Spanish,Tagalog,service,Consumer,Home Loan,Investment,location,CA,availability,0
-name,Marta Crider,language,English,Spanish,Hindi,service,Consumer,Home Loan,Investment,location,FL,availability,1
-name,Darion Cardwell,language,English,Spanish,Vietnamese,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Shmuel Royer,language,English,Vietnamese,Spanish,service,Consumer,Investment,Business,location,AZ,availability,0
-name,Victor Cromer,language,English,Spanish,Russian,service,Investment,Business,Home Loan,location,TX,availability,0
-name,Len Martinson,language,English,Spanish,Italian,service,Consumer,Investment,Business,location,VA,availability,1
-name,Orin Belcher,language,English,Spanish,Korean,service,Consumer,Business,Investment,location,TX,availability,0
-name,Shaunice Moore,language,English,Spanish,Vietnamese,service,Investment,Consumer,Home Loan,location,OR,availability,0
-name,Tad Darling,language,English,Spanish,Chinese,service,Consumer,Investment,Business,location,IL,availability,1
-name,Corine Seymore,language,English,Spanish,Chinese,service,Investment,Home Loan,Business,location,TX,availability,0
-name,Marcelo Sneed,language,English,Spanish,Vietnamese,service,Investment,Business,Home Loan,location,SC,availability,0
-name,Breann Herrington,language,English,Chinese,Spanish,service,Home Loan,Business,Investment,location,NY,availability,1
-name,Kassie Cox,language,English,Russian,Spanish,service,Consumer,Investment,Business,location,CA,availability,0
-name,Channon Sturgeon,language,English,Spanish,German,service,Business,Investment,Home Loan,location,FL,availability,1
-name,Kyla Brockman,language,English,Russian,Spanish,service,Investment,Business,Consumer,location,WA,availability,0
-name,Maxwell Anglin,language,English,Spanish,Russian,service,Consumer,Investment,Business,location,TX,availability,1
-name,Krystin Jeffries,language,English,Spanish,Japanese,service,Home Loan,Consumer,Business,location,VA,availability,1
-name,Jasmina Coffey,language,English,Spanish,Korean,service,Investment,Business,Consumer,location,CA,availability,0
-name,Nolan Ambrose,language,English,Spanish,Turkish,service,Investment,Consumer,Business,location,CA,availability,0
-name,Denesha Reed,language,English,Spanish,Tagalog,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Jermiah Gault,language,English,Spanish,French,service,Investment,Business,Consumer,location,CT,availability,0
-name,Laramie Kimball,language,English,Spanish,German,service,Consumer,Business,Investment,location,TX,availability,1
-name,Annaliese Mccartney,language,English,Spanish,Persian,service,Business,Investment,Home Loan,location,MA,availability,0
-name,Dain Donnelly,language,English,Spanish,Chinese,service,Consumer,Business,Home Loan,location,FL,availability,1
-name,Linnea Thao,language,English,Spanish,Greek,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Kate Chacon,language,English,Spanish,French,service,Home Loan,Investment,Consumer,location,MO,availability,1
-name,Mariam Hedges,language,English,Spanish,Korean,service,Business,Investment,Consumer,location,IL,availability,1
-name,Denisha Gaylord,language,English,Spanish,Romanian,service,Investment,Home Loan,Business,location,FL,availability,1
-name,Kayley Hayes,language,English,Spanish,Portugese,service,Investment,Business,Home Loan,location,SC,availability,1
-name,Clarke Jefferies,language,English,Spanish,Greek,service,Home Loan,Investment,Business,location,NJ,availability,1
-name,Turner Damon,language,English,Spanish,Hebrew,service,Investment,Consumer,Business,location,OR,availability,0
-name,Reed Perez,language,English,Spanish,German,service,Business,Home Loan,Consumer,location,OR,availability,0
-name,Pascual Hailey,language,English,Spanish,Arabic,service,Consumer,Business,Investment,location,WA,availability,0
-name,Patty Chester,language,English,Spanish,Korean,service,Investment,Home Loan,Business,location,MD,availability,1
-name,Larita Valenti,language,English,Arabic,Spanish,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Danette Davidson,language,English,Spanish,Arabic,service,Investment,Home Loan,Consumer,location,NJ,availability,1
-name,Waleed Alvarado,language,English,Spanish,German,service,Consumer,Investment,Business,location,NV,availability,1
-name,Lynsey Roberts,language,English,Spanish,Korean,service,Business,Investment,Home Loan,location,FL,availability,1
-name,Jacquline Earle,language,English,French,Spanish,service,Investment,Home Loan,Consumer,location,WA,availability,0
-name,Reyes Prather,language,English,Chinese,Polish,service,Investment,Consumer,Business,location,VA,availability,1
-name,Bethann Jensen,language,English,Spanish,Russian,service,Investment,Home Loan,Business,location,MA,availability,1
-name,Puja Bower,language,English,Spanish,Chinese,service,Consumer,Business,Investment,location,CA,availability,0
-name,Elizabet Yarbrough,language,English,Spanish,Chinese,service,Investment,Business,Home Loan,location,FL,availability,1
-name,Janell Newby,language,English,Spanish,Chinese,service,Investment,Business,Home Loan,location,NY,availability,1
-name,Kala Pendleton,language,English,Spanish,Italian,service,Consumer,Investment,Business,location,TX,availability,1
-name,Tynesha Arrington,language,English,Portugese,Spanish,service,Investment,Home Loan,Consumer,location,MA,availability,0
-name,Phaedra Forte,language,English,Spanish,Chinese,service,Consumer,Home Loan,Investment,location,CA,availability,0
-name,Devina Meeks,language,English,Spanish,Tagalog,service,Business,Home Loan,Consumer,location,AZ,availability,0
-name,Karine Mize,language,English,Spanish,Tagalog,service,Business,Consumer,Investment,location,TN,availability,1
-name,Jamall Thomson,language,English,Korean,Spanish,service,Home Loan,Consumer,Investment,location,CA,availability,0
-name,Antonie Conyers,language,English,Spanish,Vietnamese,service,Home Loan,Investment,Business,location,PA,availability,1
-name,Lynelle Smalls,language,English,Spanish,Chinese,service,Investment,Consumer,Business,location,NV,availability,0
-name,Estefania Levi,language,English,Spanish,Russian,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Mya Tisdale,language,English,Spanish,Arabic,service,Business,Consumer,Home Loan,location,FL,availability,1
-name,Daphne Ott,language,English,Spanish,Chinese,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Naquita Gregory,language,English,Spanish,Chinese,service,Consumer,Business,Home Loan,location,GA,availability,1
-name,Briana Ashworth,language,English,Thai,French,service,Consumer,Investment,Home Loan,location,GA,availability,1
-name,Sherena Hagen,language,English,Spanish,Persian,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Lynette Stovall,language,English,Spanish,Chinese,service,Consumer,Home Loan,Investment,location,CA,availability,0
-name,Santanna Leak,language,English,Spanish,French,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Siobhan Durbin,language,English,Spanish,Ukranian,service,Consumer,Business,Home Loan,location,MA,availability,1
-name,Mariko Masters,language,English,Spanish,Japanese,service,Business,Home Loan,Consumer,location,TN,availability,1
-name,Anneliese Darby,language,English,Chinese,Spanish,service,Investment,Consumer,Business,location,MD,availability,0
-name,Rayn Russ,language,English,Spanish,Tagalog,service,Investment,Consumer,Business,location,MI,availability,1
-name,Rita Ruffin,language,English,Spanish,French,service,Investment,Business,Home Loan,location,NY,availability,1
-name,Tamekia Silverman,language,English,Spanish,Chinese,service,Consumer,Business,Home Loan,location,FL,availability,1
-name,Jackie Todd,language,English,Spanish,Chinese,service,Business,Consumer,Home Loan,location,MD,availability,1
-name,Takisha Loy,language,English,Arabic,Vietnamese,service,Home Loan,Investment,Consumer,location,NJ,availability,1
-name,Richelle Newkirk,language,English,Spanish,Greek,service,Investment,Home Loan,Business,location,TX,availability,0
-name,Paolo Banner,language,English,Spanish,Russian,service,Consumer,Home Loan,Business,location,CA,availability,0
-name,Sherese Bray,language,English,Spanish,Chinese,service,Consumer,Investment,Home Loan,location,IL,availability,0
-name,Cristen Short,language,English,Portugese,Spanish,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Jessee Pollock,language,English,Arabic,Spanish,service,Investment,Business,Consumer,location,CA,availability,0
-name,Ramiro Warner,language,English,Spanish,German,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Josuha Kirchner,language,English,Spanish,Korean,service,Consumer,Investment,Business,location,FL,availability,1
-name,Arvin Musselman,language,English,Spanish,French,service,Consumer,Investment,Business,location,NJ,availability,0
-name,Otis Krueger,language,English,Spanish,French,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Teri Ward,language,English,Spanish,Vietnamese,service,Investment,Consumer,Home Loan,location,PA,availability,0
-name,Latora Shook,language,English,Spanish,Tagalog,service,Consumer,Investment,Home Loan,location,NH,availability,1
-name,Kara Ivy,language,English,Spanish,French,service,Investment,Home Loan,Business,location,TX,availability,1
-name,Sacha Deyoung,language,English,Spanish,Russian,service,Consumer,Business,Investment,location,TX,availability,1
-name,Jolene Palacios,language,English,Spanish,Romanian,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Muhammad Byars,language,English,Spanish,Greek,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Paige Hackett,language,English,Spanish,Korean,service,Business,Investment,Consumer,location,NY,availability,1
-name,Greggory Paulsen,language,English,Tagalog,Spanish,service,Business,Investment,Consumer,location,SC,availability,1
-name,Miriam Oneill,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,NC,availability,1
-name,Danya Reece,language,English,Spanish,French,service,Business,Consumer,Investment,location,FL,availability,0
-name,Brittanny Baron,language,English,Spanish,French,service,Home Loan,Investment,Business,location,FL,availability,1
-name,Dara Gary,language,English,Spanish,Korean,service,Home Loan,Business,Investment,location,NY,availability,1
-name,Letha Lawler,language,English,French,Spanish,service,Business,Investment,Consumer,location,NV,availability,0
-name,Brayden Janssen,language,English,Spanish,Persian,service,Business,Investment,Home Loan,location,CA,availability,0
-name,Jai Chisholm,language,English,Spanish,Tagalog,service,Consumer,Business,Home Loan,location,CA,availability,0
-name,Kimberly Post,language,English,Vietnamese,Ukranian,service,Business,Investment,Consumer,location,MD,availability,0
-name,Marcell Parrott,language,English,Russian,Spanish,service,Business,Consumer,Home Loan,location,CA,availability,0
-name,Jaden Mccarty,language,English,Spanish,Korean,service,Consumer,Business,Investment,location,IL,availability,1
-name,Jarett Dibble,language,English,Tagalog,Spanish,service,Consumer,Investment,Business,location,NJ,availability,1
-name,Candie Brock,language,English,Spanish,Chinese,service,Business,Investment,Consumer,location,OR,availability,0
-name,Keane Baber,language,English,Spanish,Korean,service,Home Loan,Business,Investment,location,WA,availability,0
-name,Keoni Salerno,language,English,Spanish,Italian,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Jennalee Garvin,language,English,Spanish,Vietnamese,service,Business,Consumer,Home Loan,location,NJ,availability,1
-name,Ian Glynn,language,English,Spanish,Polish,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Adrianna Littlejohn,language,English,Hindi,Spanish,service,Consumer,Home Loan,Investment,location,FL,availability,1
-name,Sherese Shelton,language,English,Arabic,German,service,Consumer,Business,Investment,location,WA,availability,0
-name,Damarcus Wampler,language,English,Spanish,Arabic,service,Home Loan,Consumer,Business,location,NY,availability,1
-name,Geronimo Samuels,language,English,Spanish,German,service,Consumer,Investment,Business,location,FL,availability,1
-name,Johnthan Bear,language,English,Spanish,Portugese,service,Consumer,Investment,Business,location,TN,availability,1
-name,Kathi Mcduffie,language,English,Spanish,Hindi,service,Investment,Home Loan,Business,location,TX,availability,1
-name,Yadira Boyer,language,English,Chinese,Spanish,service,Home Loan,Consumer,Investment,location,AZ,availability,0
-name,Tacarra Swisher,language,English,Spanish,French,service,Consumer,Home Loan,Business,location,MA,availability,0
-name,Dyan Samuel,language,English,Spanish,French,service,Home Loan,Business,Consumer,location,MD,availability,1
-name,Tana Mackie,language,English,Italian,Spanish,service,Home Loan,Consumer,Investment,location,MD,availability,0
-name,Cameo Flood,language,English,Spanish,German,service,Home Loan,Consumer,Investment,location,RI,availability,1
-name,Leon Ybarra,language,English,Arabic,Spanish,service,Consumer,Investment,Home Loan,location,TX,availability,0
-name,Felix Bolden,language,English,Chinese,Spanish,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Joycelyn Noll,language,English,Spanish,Hindi,service,Home Loan,Consumer,Investment,location,FL,availability,1
-name,Porscha Bird,language,English,Spanish,French,service,Investment,Home Loan,Business,location,FL,availability,1
-name,Arick Floyd,language,English,Spanish,Hindi,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Latonia Bowler,language,English,Spanish,Russian,service,Business,Home Loan,Investment,location,MD,availability,1
-name,Gerson Rico,language,English,Spanish,Arabic,service,Home Loan,Investment,Consumer,location,TX,availability,0
-name,Christena Avila,language,English,Arabic,French,service,Consumer,Home Loan,Business,location,TX,availability,1
-name,Clyde Lankford,language,English,Russian,Spanish,service,Investment,Home Loan,Business,location,TX,availability,1
-name,Laquandra Roark,language,English,Spanish,Tagalog,service,Consumer,Home Loan,Business,location,FL,availability,0
-name,Alina Nelms,language,English,Spanish,Japanese,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Caley Hilliard,language,English,Portugese,French,service,Investment,Business,Home Loan,location,NJ,availability,1
-name,Tyla Bartlett,language,English,Spanish,Chinese,service,Business,Home Loan,Consumer,location,GA,availability,1
-name,Amarilis Gilbertson,language,English,Spanish,Russian,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Ricky Hester,language,English,Chinese,Arabic,service,Investment,Business,Consumer,location,CA,availability,0
-name,Janeen Schofield,language,English,Spanish,Chinese,service,Home Loan,Investment,Business,location,VA,availability,1
-name,Christinia Pollard,language,English,Spanish,Vietnamese,service,Consumer,Home Loan,Investment,location,FL,availability,1
-name,Franco Brice,language,English,Spanish,Vietnamese,service,Consumer,Home Loan,Investment,location,IL,availability,1
-name,Jessy Pappas,language,English,Spanish,French,service,Consumer,Investment,Home Loan,location,FL,availability,1
-name,Derik Proctor,language,English,Spanish,Chinese,service,Home Loan,Consumer,Business,location,MA,availability,1
-name,Mac Meeker,language,English,French,Spanish,service,Consumer,Investment,Business,location,IL,availability,0
-name,Shalene Clemens,language,English,Chinese,Romanian,service,Business,Investment,Home Loan,location,GA,availability,1
-name,Franky Michaud,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,FL,availability,1
-name,Alejandra Jaramillo,language,English,Spanish,French,service,Business,Consumer,Investment,location,CA,availability,0
-name,Waylon Fry,language,English,Spanish,Italian,service,Home Loan,Business,Consumer,location,NY,availability,0
-name,Marcus Seaman,language,English,Spanish,Turkish,service,Business,Home Loan,Investment,location,FL,availability,1
-name,Danilo Speer,language,English,Spanish,German,service,Investment,Business,Home Loan,location,NJ,availability,1
-name,Gilbert Ly,language,English,Spanish,Chinese,service,Investment,Home Loan,Consumer,location,CA,availability,0
-name,Nicholis March,language,English,Spanish,German,service,Investment,Business,Consumer,location,FL,availability,0
-name,Lanette Mclean,language,English,Spanish,Tagalog,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Nehemiah Ellison,language,English,Spanish,Chinese,service,Investment,Consumer,Business,location,MA,availability,0
-name,Barbie Bennett,language,English,Tagalog,Spanish,service,Consumer,Investment,Home Loan,location,WA,availability,0
-name,Annette Brock,language,English,Spanish,Russian,service,Home Loan,Consumer,Investment,location,GA,availability,1
-name,Montez Musselman,language,English,Russian,Vietnamese,service,Home Loan,Consumer,Investment,location,CA,availability,0
-name,Jessicca Damico,language,English,Spanish,German,service,Business,Consumer,Home Loan,location,VA,availability,1
-name,Mirna Hamlin,language,English,Japanese,Spanish,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Mary Gore,language,English,Spanish,Italian,service,Business,Investment,Home Loan,location,FL,availability,1
-name,Reyes Poe,language,English,Spanish,German,service,Home Loan,Business,Investment,location,TX,availability,0
-name,Jermy Ocampo,language,English,Spanish,Russian,service,Consumer,Home Loan,Investment,location,TX,availability,0
-name,Demetrice Dingle,language,English,Spanish,Chinese,service,Business,Home Loan,Consumer,location,GA,availability,1
-name,Mariam Lemieux,language,English,Spanish,German,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Laina Goldberg,language,English,Spanish,Persian,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Lucius Lavigne,language,English,Spanish,Korean,service,Home Loan,Consumer,Business,location,OR,availability,0
-name,Georgia Starr,language,English,Korean,Arabic,service,Business,Home Loan,Consumer,location,NY,availability,0
-name,Apryl Holbrook,language,English,Spanish,Chinese,service,Business,Investment,Consumer,location,AZ,availability,0
-name,Tarrah Merchant,language,English,Persian,Spanish,service,Investment,Home Loan,Consumer,location,NY,availability,1
-name,Dana Geer,language,English,Spanish,Tagalog,service,Consumer,Business,Investment,location,NJ,availability,0
-name,Stetson Vasquez,language,English,Korean,Tagalog,service,Consumer,Business,Home Loan,location,NY,availability,1
-name,Alec Tripp,language,English,Chinese,Spanish,service,Business,Investment,Consumer,location,TX,availability,1
-name,Shunta Conklin,language,English,Greek,Spanish,service,Consumer,Business,Home Loan,location,IL,availability,1
-name,Jonmichael Caraballo,language,English,Spanish,Tagalog,service,Business,Consumer,Investment,location,NV,availability,1
-name,Shari Fish,language,English,Chinese,Thai,service,Business,Home Loan,Investment,location,MA,availability,1
-name,Mendy Sutherland,language,English,Spanish,Polish,service,Business,Investment,Home Loan,location,WA,availability,0
-name,Kristina Jansen,language,English,Spanish,German,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Angelique Polk,language,English,Spanish,French,service,Investment,Home Loan,Business,location,GA,availability,1
-name,Lucas Sage,language,English,Spanish,Italian,service,Business,Consumer,Home Loan,location,GA,availability,1
-name,Tommi Burdick,language,English,Spanish,Tagalog,service,Home Loan,Consumer,Business,location,CT,availability,0
-name,Keyon Coggins,language,English,Spanish,Chinese,service,Investment,Home Loan,Consumer,location,IL,availability,1
-name,Kassandra Criswell,language,English,French,Spanish,service,Consumer,Business,Investment,location,AZ,availability,0
-name,Lucky Lock,language,English,Korean,Spanish,service,Business,Investment,Consumer,location,VA,availability,1
-name,Sharyn Raines,language,English,Spanish,Korean,service,Investment,Consumer,Home Loan,location,FL,availability,0
-name,Nataly Ashmore,language,English,Spanish,Arabic,service,Home Loan,Investment,Business,location,MD,availability,1
-name,Gracie Booth,language,English,Spanish,Korean,service,Investment,Home Loan,Consumer,location,VA,availability,1
-name,Leopoldo Riggs,language,English,Spanish,Russian,service,Business,Investment,Home Loan,location,NY,availability,1
-name,Alexis Hallman,language,English,French,Portugese,service,Business,Home Loan,Consumer,location,FL,availability,1
-name,Mickey Hamilton,language,English,Spanish,Chinese,service,Consumer,Home Loan,Investment,location,AZ,availability,0
-name,Claribel Sales,language,English,Spanish,Chinese,service,Home Loan,Consumer,Investment,location,AZ,availability,0
-name,Rosangela Hamm,language,English,Spanish,Tagalog,service,Home Loan,Consumer,Investment,location,FL,availability,1
-name,Stevan Woodcock,language,English,Spanish,Chinese,service,Business,Investment,Consumer,location,FL,availability,1
-name,Bronwyn Yoder,language,English,Spanish,Tagalog,service,Investment,Business,Consumer,location,IL,availability,1
-name,Kathie Gaskins,language,English,German,Tagalog,service,Business,Consumer,Home Loan,location,UT,availability,1
-name,Jeanie Chapa,language,English,Japanese,Spanish,service,Home Loan,Investment,Business,location,AZ,availability,0
-name,Idris Canty,language,English,Spanish,Vietnamese,service,Business,Home Loan,Consumer,location,NV,availability,0
-name,Laurie Irizarry,language,English,Spanish,Portugese,service,Investment,Business,Home Loan,location,GA,availability,1
-name,Chavon Arteaga,language,English,Spanish,Hindi,service,Investment,Consumer,Business,location,FL,availability,0
-name,Lasonya Free,language,English,Spanish,Romanian,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Paulette Hankins,language,English,Arabic,Spanish,service,Home Loan,Business,Investment,location,WA,availability,0
-name,Ernestina Hope,language,English,Spanish,Polish,service,Investment,Home Loan,Consumer,location,CT,availability,1
-name,Jinny Begay,language,English,Arabic,Spanish,service,Business,Home Loan,Investment,location,NY,availability,0
-name,Asha Crook,language,English,French,Tagalog,service,Home Loan,Consumer,Business,location,MI,availability,1
-name,Sharod Latham,language,English,Spanish,French,service,Investment,Business,Home Loan,location,IL,availability,1
-name,Dalila Lusk,language,English,Spanish,Italian,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Desarae Logue,language,English,Chinese,Spanish,service,Consumer,Home Loan,Investment,location,NH,availability,1
-name,Clifton Breeden,language,English,Spanish,Arabic,service,Consumer,Investment,Business,location,MI,availability,0
-name,Lucinda Garland,language,English,Spanish,Vietnamese,service,Consumer,Investment,Business,location,NY,availability,1
-name,Dain Escobedo,language,English,Spanish,Portugese,service,Consumer,Home Loan,Business,location,OR,availability,1
-name,Mellissa Shapiro,language,English,Spanish,German,service,Business,Home Loan,Investment,location,MI,availability,0
-name,Celia Stacey,language,English,Spanish,Russian,service,Home Loan,Investment,Business,location,FL,availability,1
-name,Danille Staples,language,English,Spanish,Chinese,service,Investment,Consumer,Home Loan,location,AZ,availability,0
-name,Morgen Fisk,language,English,Spanish,German,service,Business,Consumer,Home Loan,location,VA,availability,1
-name,Anitra Cordova,language,English,Spanish,Russian,service,Consumer,Business,Home Loan,location,GA,availability,1
-name,Kimberli Hale,language,English,Spanish,Chinese,service,Business,Investment,Consumer,location,FL,availability,1
-name,Taj Galvez,language,English,Spanish,Vietnamese,service,Home Loan,Business,Investment,location,TX,availability,1
-name,Reggie Pickett,language,English,Chinese,Spanish,service,Investment,Home Loan,Consumer,location,AZ,availability,0
-name,Tinisha Mattison,language,English,Russian,Spanish,service,Consumer,Investment,Business,location,WA,availability,0
-name,Jaylene Thibodeaux,language,English,Spanish,Russian,service,Investment,Business,Consumer,location,OK,availability,0
-name,Yanira Kimball,language,English,Spanish,French,service,Business,Home Loan,Investment,location,NJ,availability,0
-name,Theresa Morrell,language,English,Spanish,Vietnamese,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Nydia Covey,language,English,Spanish,Arabic,service,Consumer,Investment,Home Loan,location,TX,availability,1
-name,Daneil Kramer,language,English,Tagalog,Spanish,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Jermain Blackburn,language,English,Spanish,Chinese,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Cyndi Duncan,language,English,Spanish,Arabic,service,Consumer,Investment,Business,location,CA,availability,0
-name,Janean Cone,language,English,Spanish,Hindi,service,Consumer,Investment,Business,location,GA,availability,1
-name,Janice Towns,language,English,Chinese,Spanish,service,Investment,Business,Consumer,location,OR,availability,1
-name,Leona Cotton,language,English,Spanish,Chinese,service,Business,Home Loan,Consumer,location,NY,availability,1
-name,Levi Darling,language,English,Spanish,Vietnamese,service,Home Loan,Business,Consumer,location,VA,availability,0
-name,Kalynn Hackett,language,English,Spanish,Arabic,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Tashauna Roche,language,English,Spanish,Chinese,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Pernell Stroup,language,English,French,Spanish,service,Business,Home Loan,Consumer,location,TX,availability,1
-name,Christina Stansberry,language,English,Portugese,Spanish,service,Home Loan,Business,Investment,location,OR,availability,0
-name,Brandy Hensley,language,English,Spanish,Tagalog,service,Consumer,Home Loan,Investment,location,TN,availability,1
-name,Woodrow Keefer,language,English,Spanish,Greek,service,Consumer,Investment,Home Loan,location,NJ,availability,1
-name,Niki Sommer,language,English,Portugese,Spanish,service,Consumer,Business,Home Loan,location,WA,availability,0
-name,Mechelle Nathan,language,English,Spanish,Tagalog,service,Home Loan,Consumer,Business,location,MA,availability,1
-name,Jamieson Davis,language,English,Spanish,Greek,service,Home Loan,Consumer,Investment,location,PA,availability,1
-name,Gitty Kerns,language,English,Spanish,Tagalog,service,Home Loan,Investment,Consumer,location,KS,availability,1
-name,Michaela Riggs,language,English,German,Spanish,service,Investment,Home Loan,Business,location,MI,availability,1
-name,Chance Knutson,language,English,Spanish,Korean,service,Investment,Business,Home Loan,location,GA,availability,1
-name,Linsay Oswalt,language,English,Spanish,Tagalog,service,Home Loan,Consumer,Investment,location,TN,availability,1
-name,Lindi Soares,language,English,Italian,Spanish,service,Investment,Home Loan,Consumer,location,NY,availability,1
-name,Lucky Corbett,language,English,Spanish,French,service,Home Loan,Investment,Consumer,location,TX,availability,1
-name,Anjelica Hobbs,language,English,Spanish,Chinese,service,Investment,Business,Home Loan,location,WA,availability,0
-name,Jessenia Manns,language,English,Spanish,Russian,service,Home Loan,Consumer,Investment,location,MD,availability,1
-name,Eliezer Wells,language,English,Spanish,French,service,Business,Home Loan,Consumer,location,FL,availability,1
-name,Mikeal Hawk,language,English,Spanish,German,service,Investment,Business,Consumer,location,TN,availability,1
-name,Gentry Seward,language,English,Thai,Spanish,service,Business,Consumer,Investment,location,CA,availability,0
-name,Paige Paige,language,English,Spanish,German,service,Consumer,Home Loan,Business,location,MO,availability,0
-name,Haleigh Ackerman,language,English,Spanish,German,service,Home Loan,Business,Investment,location,TX,availability,0
-name,Kenyatta Feliciano,language,English,Korean,Spanish,service,Home Loan,Consumer,Investment,location,FL,availability,0
-name,Naisha Payton,language,English,Spanish,French,service,Business,Consumer,Investment,location,IL,availability,0
-name,Thor Schwartz,language,English,Spanish,Vietnamese,service,Business,Consumer,Home Loan,location,CA,availability,0
-name,Kelley Burks,language,English,Spanish,Chinese,service,Consumer,Business,Home Loan,location,IL,availability,0
-name,Sage Luttrell,language,English,Spanish,Italian,service,Consumer,Investment,Home Loan,location,IL,availability,0
-name,Jessi Douglas,language,English,Spanish,French,service,Investment,Business,Consumer,location,IL,availability,1
-name,Terrance Linton,language,English,Spanish,Korean,service,Consumer,Business,Investment,location,FL,availability,0
-name,Amy Madera,language,English,Spanish,Hindi,service,Investment,Business,Home Loan,location,TN,availability,1
-name,Desiray Mcwhorter,language,English,Spanish,Chinese,service,Home Loan,Consumer,Business,location,FL,availability,0
-name,Susanna Garza,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,NV,availability,0
-name,Dallin Newell,language,English,Spanish,Portugese,service,Home Loan,Consumer,Investment,location,NJ,availability,0
-name,Denise Funk,language,English,Spanish,Vietnamese,service,Investment,Consumer,Business,location,NY,availability,1
-name,Shan Bilodeau,language,English,French,Spanish,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Gavriel Epstein,language,English,Spanish,Portugese,service,Business,Home Loan,Investment,location,MD,availability,1
-name,Brieanne Yoon,language,English,Spanish,Hebrew,service,Consumer,Home Loan,Investment,location,TX,availability,1
-name,Terina Upchurch,language,English,Spanish,French,service,Business,Investment,Consumer,location,WA,availability,0
-name,Marnie Mcnutt,language,English,Vietnamese,Spanish,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Willa Reeder,language,English,Spanish,Tagalog,service,Business,Home Loan,Investment,location,MD,availability,1
-name,Carri Aiello,language,English,Spanish,French,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Taryn Marcus,language,English,Chinese,Romanian,service,Business,Home Loan,Consumer,location,IL,availability,1
-name,Beatris Hammonds,language,English,Spanish,Hindi,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Brittini Lucero,language,English,Spanish,Chinese,service,Business,Home Loan,Investment,location,WA,availability,0
-name,Kristi Alexander,language,English,Spanish,German,service,Investment,Business,Consumer,location,NJ,availability,1
-name,Yancey Flowers,language,English,Greek,Spanish,service,Investment,Consumer,Business,location,CA,availability,0
-name,Amanda Jasso,language,English,Spanish,Polish,service,Investment,Business,Consumer,location,CA,availability,0
-name,Carmelo Ibarra,language,English,Italian,Spanish,service,Business,Home Loan,Investment,location,FL,availability,1
-name,Marni Croft,language,English,Spanish,Greek,service,Business,Home Loan,Consumer,location,OK,availability,1
-name,Nate Welsh,language,English,Spanish,Arabic,service,Home Loan,Business,Consumer,location,NV,availability,1
-name,Michaella Funk,language,English,Spanish,French,service,Investment,Business,Home Loan,location,MA,availability,1
-name,Talon Wahl,language,English,Spanish,Polish,service,Investment,Business,Consumer,location,TX,availability,0
-name,Joseluis Reichert,language,English,Spanish,Chinese,service,Consumer,Business,Investment,location,IL,availability,0
-name,Jody Higgs,language,English,Spanish,German,service,Consumer,Investment,Home Loan,location,MN,availability,1
-name,Eileen Humphreys,language,English,German,Spanish,service,Investment,Consumer,Business,location,CA,availability,0
-name,Danelle Rodgers,language,English,Spanish,Chinese,service,Investment,Consumer,Business,location,AZ,availability,0
-name,Ashle Solano,language,English,Persian,Spanish,service,Business,Investment,Consumer,location,CA,availability,0
-name,Marivel Skipper,language,English,Arabic,German,service,Home Loan,Investment,Consumer,location,NJ,availability,1
-name,Thaddaeus Santos,language,English,Spanish,German,service,Consumer,Business,Investment,location,TN,availability,0
-name,Roxanna Barclay,language,English,Spanish,Russian,service,Business,Consumer,Investment,location,NY,availability,1
-name,Arnulfo Bannister,language,English,Spanish,Vietnamese,service,Home Loan,Consumer,Investment,location,CA,availability,0
-name,Savanna Adair,language,English,Arabic,Spanish,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Hoang Boatwright,language,English,Spanish,Vietnamese,service,Business,Investment,Consumer,location,ME,availability,0
-name,Michel Devries,language,English,Portugese,Vietnamese,service,Business,Investment,Home Loan,location,TN,availability,1
-name,Richmond Beauchamp,language,English,Spanish,Korean,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Shereen Murdock,language,English,Spanish,French,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Adriene Christiansen,language,English,Spanish,Italian,service,Home Loan,Investment,Consumer,location,GA,availability,1
-name,Isabell Benton,language,English,Arabic,Spanish,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Charlette Oglesby,language,English,Korean,Spanish,service,Business,Home Loan,Consumer,location,NJ,availability,0
-name,Terence Dickens,language,English,Spanish,Tagalog,service,Investment,Business,Home Loan,location,ME,availability,1
-name,Annah Mortensen,language,English,Arabic,French,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Juston Welsh,language,English,Vietnamese,Spanish,service,Business,Investment,Home Loan,location,CA,availability,0
-name,Casey Gable,language,English,Spanish,Japanese,service,Investment,Home Loan,Consumer,location,CA,availability,0
-name,Paulino Hardaway,language,English,Spanish,Tagalog,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Carlee Paz,language,English,French,Spanish,service,Business,Investment,Home Loan,location,CA,availability,0
-name,Tamisha Springer,language,English,Spanish,Italian,service,Business,Home Loan,Investment,location,NV,availability,0
-name,Jonte Ripley,language,English,Spanish,Japanese,service,Investment,Consumer,Business,location,NC,availability,1
-name,Shoua Sheehan,language,English,Spanish,Romanian,service,Investment,Consumer,Home Loan,location,NJ,availability,1
-name,Kim Cagle,language,English,Spanish,Arabic,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Jena Ford,language,English,Spanish,German,service,Home Loan,Investment,Business,location,FL,availability,1
-name,Celena Sellars,language,English,Spanish,Italian,service,Consumer,Investment,Home Loan,location,TX,availability,1
-name,Trevor Banuelos,language,English,Spanish,German,service,Consumer,Business,Investment,location,CA,availability,0
-name,Ronda Lanham,language,English,Spanish,Korean,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Fransisco Michels,language,English,Portugese,Spanish,service,Consumer,Home Loan,Investment,location,AZ,availability,0
-name,Cailin Huynh,language,English,Spanish,Russian,service,Consumer,Business,Home Loan,location,NY,availability,1
-name,Kari Velasquez,language,English,Spanish,Hindi,service,Consumer,Home Loan,Business,location,MA,availability,0
-name,Grover Lovejoy,language,English,Turkish,Korean,service,Consumer,Investment,Business,location,TX,availability,1
-name,Talitha Anthony,language,English,Spanish,Tagalog,service,Investment,Consumer,Business,location,VA,availability,1
-name,Cecilio Haag,language,English,Spanish,Arabic,service,Consumer,Business,Investment,location,CA,availability,0
-name,Karry Stidham,language,English,Spanish,Russian,service,Consumer,Business,Home Loan,location,CA,availability,0
-name,Codi Fogle,language,English,Spanish,Tagalog,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Somer Sisco,language,English,Spanish,Japanese,service,Home Loan,Consumer,Business,location,WA,availability,0
-name,Shimon Mcclinton,language,English,Spanish,Tagalog,service,Home Loan,Investment,Business,location,NJ,availability,1
-name,Lucretia Chadwick,language,English,Spanish,French,service,Business,Consumer,Home Loan,location,GA,availability,1
-name,Kory Passmore,language,English,Spanish,Hindi,service,Consumer,Investment,Business,location,FL,availability,1
-name,Jamel Villegas,language,English,Vietnamese,Spanish,service,Business,Home Loan,Investment,location,TX,availability,1
-name,Ida Lombardi,language,English,Spanish,German,service,Business,Investment,Home Loan,location,CA,availability,0
-name,Tekia Stover,language,English,Hindi,Spanish,service,Investment,Business,Consumer,location,GA,availability,1
-name,Lyndsie Gilliam,language,English,Spanish,Arabic,service,Home Loan,Investment,Consumer,location,NY,availability,0
-name,Craig Teal,language,English,Spanish,Portugese,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Susan Gibbons,language,English,Russian,Spanish,service,Investment,Home Loan,Consumer,location,CA,availability,0
-name,Deante Lamb,language,English,Spanish,Greek,service,Investment,Consumer,Home Loan,location,TX,availability,1
-name,Shanice Beardsley,language,English,Spanish,Russian,service,Business,Consumer,Home Loan,location,FL,availability,0
-name,Brittanee Armstrong,language,English,Hindi,Spanish,service,Business,Home Loan,Consumer,location,FL,availability,1
-name,Aracely Mccracken,language,English,Spanish,German,service,Home Loan,Investment,Consumer,location,NJ,availability,1
-name,Delicia Kearney,language,English,Spanish,Persian,service,Consumer,Business,Investment,location,CT,availability,0
-name,Danyale Guerin,language,English,Spanish,Korean,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Davey Leighton,language,English,Polish,Spanish,service,Consumer,Home Loan,Business,location,TX,availability,0
-name,Elbert Rangel,language,English,Spanish,Portugese,service,Business,Home Loan,Investment,location,TX,availability,1
-name,Joellen Larkin,language,English,Spanish,German,service,Business,Investment,Consumer,location,NC,availability,1
-name,Mollie Sotelo,language,English,Spanish,Italian,service,Consumer,Business,Investment,location,FL,availability,1
-name,Hayden Wheatley,language,English,Spanish,German,service,Investment,Home Loan,Business,location,AR,availability,1
-name,Fernanda Earley,language,English,Spanish,Tagalog,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Mikel Osborne,language,English,Spanish,Tagalog,service,Business,Consumer,Home Loan,location,TX,availability,1
-name,Bobbijo Gardiner,language,English,Spanish,Tagalog,service,Consumer,Business,Home Loan,location,AZ,availability,0
-name,Scott Tong,language,English,Spanish,Chinese,service,Consumer,Investment,Home Loan,location,NY,availability,0
-name,Myeisha Friday,language,English,Spanish,Greek,service,Investment,Business,Home Loan,location,NC,availability,1
-name,Antwone Spencer,language,English,Italian,Spanish,service,Investment,Home Loan,Consumer,location,MA,availability,1
-name,Warner Soria,language,English,Greek,Spanish,service,Investment,Home Loan,Business,location,MA,availability,1
-name,Rashon Cramer,language,English,Spanish,Tagalog,service,Investment,Consumer,Business,location,CA,availability,0
-name,Cora Bowles,language,English,Chinese,Spanish,service,Home Loan,Business,Consumer,location,TX,availability,1
-name,Seneca Crouch,language,English,Spanish,Chinese,service,Consumer,Investment,Home Loan,location,FL,availability,0
-name,Jory Hyatt,language,English,Italian,Spanish,service,Business,Home Loan,Consumer,location,MD,availability,1
-name,Harley Pilcher,language,English,Spanish,Russian,service,Investment,Home Loan,Consumer,location,NY,availability,1
-name,Lacrisha Gallo,language,English,Spanish,Korean,service,Business,Consumer,Investment,location,CA,availability,0
-name,Katie Xiong,language,English,Vietnamese,Spanish,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Carol Triplett,language,English,Spanish,Chinese,service,Home Loan,Consumer,Business,location,MI,availability,0
-name,Kailyn Searcy,language,English,Spanish,Portugese,service,Consumer,Investment,Business,location,NC,availability,1
-name,Cruz Grayson,language,English,Spanish,Arabic,service,Home Loan,Business,Consumer,location,IL,availability,1
-name,Debora Gold,language,English,Spanish,Polish,service,Home Loan,Business,Consumer,location,NY,availability,1
-name,Andrew Dick,language,English,Korean,Chinese,service,Consumer,Investment,Business,location,NC,availability,1
-name,Hazel Ridley,language,English,Spanish,Korean,service,Investment,Home Loan,Business,location,MA,availability,1
-name,Tod Ricks,language,English,Spanish,Korean,service,Home Loan,Investment,Consumer,location,NY,availability,1
-name,Daria Watters,language,English,Chinese,Spanish,service,Business,Investment,Consumer,location,MA,availability,1
-name,Letisia Florez,language,English,Spanish,Tagalog,service,Consumer,Investment,Business,location,FL,availability,1
-name,Tricia Reid,language,English,Korean,Chinese,service,Consumer,Investment,Business,location,MI,availability,1
-name,Linsey Tyson,language,English,Spanish,Persian,service,Investment,Home Loan,Consumer,location,TX,availability,0
-name,Carrington Haugen,language,English,Spanish,Korean,service,Home Loan,Business,Consumer,location,TX,availability,1
-name,Ritchie Griggs,language,English,Spanish,Arabic,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Tiffani Eagle,language,English,Spanish,Ukranian,service,Consumer,Home Loan,Investment,location,VA,availability,0
-name,Elton Harder,language,English,Italian,Spanish,service,Investment,Business,Home Loan,location,DE,availability,1
-name,Britny Whitt,language,English,Spanish,Portugese,service,Business,Investment,Home Loan,location,NJ,availability,1
-name,Linsay Villegas,language,English,Spanish,Korean,service,Home Loan,Business,Investment,location,NJ,availability,1
-name,Donald Braxton,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,TX,availability,1
-name,Charity Fortune,language,English,Spanish,Polish,service,Home Loan,Consumer,Investment,location,NJ,availability,1
-name,Shawanda Escobar,language,English,Spanish,Hebrew,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Sloan Grossman,language,English,Spanish,German,service,Home Loan,Investment,Business,location,FL,availability,1
-name,Jo Copley,language,English,Spanish,Vietnamese,service,Home Loan,Consumer,Investment,location,IL,availability,0
-name,Jamye Ford,language,English,Spanish,Tagalog,service,Home Loan,Business,Investment,location,MD,availability,1
-name,Larisa Roman,language,English,Spanish,French,service,Business,Home Loan,Investment,location,TX,availability,1
-name,Paulo Mercer,language,English,Spanish,German,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Xiomara Oswald,language,English,Spanish,Chinese,service,Consumer,Home Loan,Investment,location,CA,availability,0
-name,Thanh Rodrigues,language,English,Spanish,Tagalog,service,Investment,Home Loan,Consumer,location,FL,availability,1
-name,Elspeth Tirado,language,English,Spanish,Chinese,service,Business,Consumer,Home Loan,location,NV,availability,1
-name,Josuha Lemay,language,English,Chinese,Tagalog,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Shaneka Sorensen,language,English,Spanish,Chinese,service,Business,Investment,Home Loan,location,GA,availability,1
-name,Marko Werner,language,English,Spanish,Vietnamese,service,Business,Consumer,Home Loan,location,CT,availability,1
-name,Auston Cooney,language,English,Spanish,Japanese,service,Consumer,Home Loan,Investment,location,MD,availability,0
-name,Lawanna Baumgardner,language,English,Spanish,Turkish,service,Consumer,Business,Home Loan,location,MO,availability,1
-name,Latricia Lipscomb,language,English,Romanian,Spanish,service,Investment,Business,Consumer,location,TX,availability,0
-name,Jessamyn Barnard,language,English,Spanish,Polish,service,Consumer,Home Loan,Investment,location,GA,availability,1
-name,Beronica Griffith,language,English,Spanish,Chinese,service,Consumer,Business,Investment,location,FL,availability,1
-name,Brady Hand,language,English,Japanese,Portugese,service,Investment,Home Loan,Consumer,location,NY,availability,1
-name,Lasondra Tackett,language,English,Spanish,Romanian,service,Home Loan,Consumer,Business,location,AZ,availability,0
-name,Tristan Lu,language,English,Spanish,Russian,service,Home Loan,Consumer,Business,location,AZ,availability,0
-name,Erlinda Cote,language,English,Korean,Spanish,service,Home Loan,Investment,Consumer,location,DC,availability,1
-name,Marci Friend,language,English,Chinese,Spanish,service,Consumer,Investment,Home Loan,location,AZ,availability,0
-name,Neisha Eskridge,language,English,Spanish,Portugese,service,Business,Home Loan,Consumer,location,FL,availability,1
-name,Cinthya Forest,language,English,Spanish,Vietnamese,service,Consumer,Home Loan,Business,location,IL,availability,1
-name,Diandra Love,language,English,Russian,Spanish,service,Business,Investment,Consumer,location,CA,availability,0
-name,Kelsie Mcmahan,language,English,Spanish,Hebrew,service,Consumer,Business,Investment,location,FL,availability,1
-name,Pedro Parris,language,English,Vietnamese,Spanish,service,Business,Home Loan,Consumer,location,IL,availability,1
-name,Anisa Anderson,language,English,Spanish,Ukranian,service,Investment,Business,Consumer,location,CA,availability,0
-name,Tyreese Hales,language,English,Spanish,Arabic,service,Business,Investment,Consumer,location,MD,availability,0
-name,Kile Redmond,language,English,Japanese,Russian,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Cassy Pettis,language,English,Spanish,Thai,service,Consumer,Home Loan,Investment,location,VA,availability,1
-name,Lance Landrum,language,English,Spanish,Tagalog,service,Investment,Consumer,Home Loan,location,VA,availability,0
-name,Nicklas Satterfield,language,English,Spanish,Polish,service,Consumer,Investment,Home Loan,location,PA,availability,0
-name,Maximillian Garvey,language,English,Spanish,Persian,service,Business,Investment,Consumer,location,KS,availability,1
-name,Dena Sparrow,language,English,Spanish,Chinese,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Cherelle Pettis,language,English,Spanish,Hindi,service,Investment,Business,Home Loan,location,FL,availability,0
-name,Carolynn Keyes,language,English,Italian,Spanish,service,Home Loan,Investment,Consumer,location,TX,availability,1
-name,Aleasha Holcomb,language,English,Korean,Spanish,service,Home Loan,Consumer,Investment,location,FL,availability,1
-name,Kellyann Bell,language,English,Italian,Spanish,service,Consumer,Investment,Business,location,CA,availability,0
-name,Carmela Brunson,language,English,Spanish,Arabic,service,Business,Home Loan,Consumer,location,FL,availability,1
-name,Janee Santana,language,English,Spanish,Polish,service,Investment,Business,Home Loan,location,FL,availability,1
-name,Vicki Ochoa,language,English,Spanish,Hindi,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Catrice Guyton,language,English,German,Spanish,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Aldo Barber,language,English,Spanish,Arabic,service,Investment,Home Loan,Business,location,VA,availability,1
-name,Dolores Mcfarland,language,English,Spanish,Hebrew,service,Business,Home Loan,Investment,location,CT,availability,1
-name,Jenae Pollock,language,English,Spanish,Russian,service,Investment,Home Loan,Business,location,FL,availability,0
-name,Paxton Langford,language,English,Spanish,Chinese,service,Investment,Consumer,Home Loan,location,OK,availability,1
-name,Reed Ennis,language,English,Spanish,Greek,service,Consumer,Business,Home Loan,location,AZ,availability,0
-name,Magen Beckwith,language,English,Spanish,Japanese,service,Home Loan,Consumer,Investment,location,NJ,availability,1
-name,Geronimo Suggs,language,English,Spanish,Tagalog,service,Consumer,Investment,Business,location,CA,availability,0
-name,Takia Peel,language,English,Spanish,Hebrew,service,Investment,Business,Consumer,location,CO,availability,1
-name,Rachel Wolford,language,English,Spanish,Italian,service,Investment,Business,Consumer,location,KS,availability,1
-name,Gabriella Stringer,language,English,Spanish,Tagalog,service,Consumer,Business,Investment,location,NC,availability,1
-name,Hollis Mcmillen,language,English,Spanish,Portugese,service,Consumer,Home Loan,Investment,location,MA,availability,1
-name,Leland Basham,language,English,Tagalog,Spanish,service,Investment,Business,Consumer,location,CA,availability,0
-name,Kierra Newell,language,English,Spanish,Tagalog,service,Investment,Business,Consumer,location,CA,availability,0
-name,Torrance Cronin,language,English,Spanish,Tagalog,service,Business,Home Loan,Consumer,location,WA,availability,0
-name,Dreama Messer,language,English,Spanish,Ukranian,service,Investment,Home Loan,Business,location,NV,availability,1
-name,Shawna Bradshaw,language,English,Spanish,Russian,service,Investment,Home Loan,Business,location,PA,availability,0
-name,Jerrell Beard,language,English,Vietnamese,Spanish,service,Consumer,Investment,Home Loan,location,TX,availability,1
-name,Naquita Brackett,language,English,Spanish,Russian,service,Investment,Home Loan,Consumer,location,NY,availability,0
-name,Jammie Ralston,language,English,Italian,Chinese,service,Investment,Consumer,Home Loan,location,AZ,availability,0
-name,Fidel Waddell,language,English,Spanish,German,service,Business,Investment,Home Loan,location,CA,availability,0
-name,Sharonda Adams,language,English,Chinese,Spanish,service,Investment,Home Loan,Business,location,IL,availability,0
-name,Konstantinos Sander,language,English,Spanish,Greek,service,Investment,Consumer,Home Loan,location,TX,availability,1
-name,Abbey Bourne,language,English,Polish,Korean,service,Consumer,Business,Home Loan,location,TX,availability,1
-name,Abram Ortega,language,English,Tagalog,Spanish,service,Business,Home Loan,Consumer,location,SC,availability,1
-name,Dung Clement,language,English,French,Spanish,service,Business,Investment,Consumer,location,CT,availability,1
-name,Yen Tobias,language,English,Greek,Spanish,service,Consumer,Business,Home Loan,location,MI,availability,1
-name,Nanette Armstrong,language,English,Spanish,Vietnamese,service,Consumer,Investment,Home Loan,location,MO,availability,0
-name,Jacey Weldon,language,English,Polish,Spanish,service,Investment,Consumer,Business,location,CA,availability,0
-name,Rasheda Bevins,language,English,Spanish,French,service,Consumer,Business,Home Loan,location,NY,availability,0
-name,Crystle Saul,language,English,Spanish,Italian,service,Home Loan,Consumer,Business,location,RI,availability,1
-name,Wilson Crabtree,language,English,Spanish,Polish,service,Investment,Home Loan,Business,location,GA,availability,1
-name,Socorro Hunt,language,English,Spanish,German,service,Investment,Home Loan,Consumer,location,NJ,availability,0
-name,Yoana Bland,language,English,Tagalog,Spanish,service,Investment,Business,Consumer,location,MI,availability,1
-name,Bobbiejo Abel,language,English,Spanish,Arabic,service,Business,Investment,Home Loan,location,FL,availability,1
-name,Cinthya Ragsdale,language,English,Spanish,Arabic,service,Home Loan,Investment,Consumer,location,NY,availability,0
-name,Louie Stott,language,English,Spanish,Russian,service,Investment,Business,Consumer,location,NJ,availability,0
-name,Cherrie Batts,language,English,Spanish,Tagalog,service,Business,Consumer,Investment,location,IL,availability,1
-name,Elijah Penn,language,English,Spanish,French,service,Business,Consumer,Investment,location,WA,availability,0
-name,Dayne Goldstein,language,English,Spanish,German,service,Consumer,Home Loan,Business,location,MO,availability,1
-name,Krystie Trudeau,language,English,Spanish,Tagalog,service,Business,Investment,Home Loan,location,SC,availability,1
-name,Lamarr Matos,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Nikhil Schultz,language,English,Ukranian,Turkish,service,Investment,Business,Home Loan,location,FL,availability,1
-name,Nereyda Roldan,language,English,Chinese,Spanish,service,Consumer,Investment,Home Loan,location,MA,availability,1
-name,Eboney Lockett,language,English,Spanish,Tagalog,service,Business,Consumer,Investment,location,WA,availability,0
-name,Rachele Brewer,language,English,Spanish,Russian,service,Investment,Business,Consumer,location,WA,availability,0
-name,Cherilyn Lauer,language,English,Italian,Spanish,service,Home Loan,Investment,Consumer,location,OK,availability,1
-name,Blain Powell,language,English,Spanish,Vietnamese,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Pilar Ware,language,English,Spanish,Chinese,service,Home Loan,Investment,Business,location,NV,availability,0
-name,Edwina Abreu,language,English,Spanish,German,service,Business,Home Loan,Consumer,location,CT,availability,1
-name,Shawnte Wellman,language,English,Spanish,Hindi,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Shareka Ransom,language,English,Spanish,French,service,Business,Consumer,Investment,location,MI,availability,0
-name,Tinamarie Salter,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,NJ,availability,0
-name,Eloy Samuel,language,English,Ukranian,Spanish,service,Home Loan,Investment,Business,location,GA,availability,1
-name,Xochitl Parent,language,English,Spanish,German,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Luz Sims,language,English,Hindi,Spanish,service,Consumer,Home Loan,Business,location,NY,availability,0
-name,Davion Helms,language,English,French,Spanish,service,Consumer,Home Loan,Investment,location,IL,availability,1
-name,Brock Vasquez,language,English,Chinese,Tagalog,service,Investment,Consumer,Business,location,CA,availability,0
-name,Ashlea Pollack,language,English,Spanish,Vietnamese,service,Consumer,Home Loan,Investment,location,NC,availability,1
-name,Essie Grimm,language,English,Spanish,Korean,service,Home Loan,Consumer,Business,location,MO,availability,1
-name,Aarron Locklear,language,English,Korean,Spanish,service,Consumer,Business,Home Loan,location,FL,availability,1
-name,Kimberly Hernandez,language,English,Tagalog,Russian,service,Home Loan,Business,Consumer,location,MD,availability,0
-name,Venita Mcmichael,language,English,Spanish,Arabic,service,Consumer,Business,Investment,location,NY,availability,0
-name,Shareen Kiefer,language,English,Arabic,Spanish,service,Home Loan,Investment,Consumer,location,MA,availability,0
-name,Ariel Mckinley,language,English,Spanish,Hebrew,service,Consumer,Home Loan,Investment,location,MA,availability,1
-name,Shaquana Gomes,language,English,Spanish,Russian,service,Consumer,Business,Investment,location,NJ,availability,1
-name,Talitha Worrell,language,English,Spanish,Hindi,service,Business,Consumer,Investment,location,MI,availability,1
-name,Betty Fournier,language,English,Spanish,Chinese,service,Business,Home Loan,Investment,location,WA,availability,0
-name,Joanie Zhang,language,English,Spanish,Polish,service,Business,Investment,Consumer,location,MO,availability,1
-name,Shellie Marrero,language,English,Hindi,Russian,service,Consumer,Investment,Business,location,TX,availability,1
-name,Kipp Greathouse,language,English,Chinese,German,service,Business,Home Loan,Investment,location,NY,availability,0
-name,Davin Knudson,language,English,Spanish,Hindi,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Jacoby Watters,language,English,Spanish,German,service,Consumer,Home Loan,Business,location,MA,availability,0
-name,Shameeka Steinberg,language,English,Chinese,Spanish,service,Business,Home Loan,Investment,location,NV,availability,0
-name,Donnie Forrest,language,English,Spanish,Greek,service,Business,Home Loan,Consumer,location,TX,availability,0
-name,Avi Purcell,language,English,Spanish,Hindi,service,Investment,Business,Home Loan,location,MD,availability,1
-name,Jeremi Curley,language,English,Portugese,Spanish,service,Home Loan,Investment,Business,location,NJ,availability,1
-name,Penelope Mansfield,language,English,Spanish,Korean,service,Home Loan,Investment,Business,location,RI,availability,1
-name,Tesa Robbins,language,English,Spanish,German,service,Consumer,Business,Investment,location,CT,availability,1
-name,Toan Salcido,language,English,Hebrew,Spanish,service,Investment,Business,Consumer,location,CA,availability,0
-name,Ivy Spangler,language,English,Russian,Spanish,service,Consumer,Home Loan,Investment,location,MA,availability,1
-name,Vaughn Zavala,language,English,Italian,Korean,service,Home Loan,Consumer,Investment,location,CA,availability,0
-name,Greyson Reynolds,language,English,Spanish,Arabic,service,Business,Home Loan,Investment,location,MD,availability,1
-name,Rayshawn Whitley,language,English,Spanish,Vietnamese,service,Consumer,Investment,Business,location,MA,availability,1
-name,Benjamin Stricklin,language,English,Spanish,Hindi,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Graeme Stringer,language,English,Spanish,Vietnamese,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Cliff Cortes,language,English,Spanish,Japanese,service,Consumer,Investment,Home Loan,location,MD,availability,0
-name,Carmel Plummer,language,English,German,Spanish,service,Consumer,Investment,Business,location,NY,availability,1
-name,Mirian Bolduc,language,English,Spanish,German,service,Consumer,Business,Home Loan,location,NJ,availability,1
-name,Seema Rucker,language,English,Spanish,Korean,service,Business,Home Loan,Investment,location,NC,availability,0
-name,Chancey Hagen,language,English,Spanish,Russian,service,Business,Investment,Home Loan,location,NC,availability,0
-name,Patrina Bock,language,English,Spanish,Tagalog,service,Consumer,Home Loan,Business,location,GA,availability,1
-name,Sheryl Glasgow,language,English,Tagalog,Spanish,service,Business,Consumer,Investment,location,NJ,availability,1
-name,Vera Lawrence,language,English,Spanish,Italian,service,Investment,Business,Home Loan,location,VA,availability,1
-name,Nick Espinal,language,English,Spanish,German,service,Business,Home Loan,Investment,location,FL,availability,0
-name,Katrin Herndon,language,English,Hebrew,Spanish,service,Investment,Home Loan,Consumer,location,WA,availability,0
-name,Emilia Lugo,language,English,Spanish,Tagalog,service,Consumer,Investment,Business,location,MI,availability,0
-name,Asma Joiner,language,English,Spanish,Korean,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Cagney Golding,language,English,Spanish,Vietnamese,service,Investment,Consumer,Business,location,TN,availability,0
-name,Josh Everhart,language,English,Chinese,Spanish,service,Investment,Business,Home Loan,location,MA,availability,1
-name,Tiffany Alderman,language,English,German,Spanish,service,Home Loan,Investment,Consumer,location,WA,availability,0
-name,Darleen Quigley,language,English,Spanish,Russian,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Shameeka Mauldin,language,English,Spanish,German,service,Home Loan,Investment,Business,location,NC,availability,1
-name,Jamall Shields,language,English,Spanish,German,service,Business,Home Loan,Consumer,location,WA,availability,0
-name,Brynn Legg,language,English,Spanish,Chinese,service,Business,Home Loan,Consumer,location,FL,availability,1
-name,Desire Burchett,language,English,Spanish,Chinese,service,Investment,Business,Consumer,location,TX,availability,1
-name,Shamika Lind,language,English,Spanish,German,service,Home Loan,Investment,Consumer,location,VA,availability,1
-name,Nell Hudgins,language,English,Portugese,Spanish,service,Consumer,Home Loan,Business,location,NY,availability,0
-name,Chardae Mares,language,English,Spanish,French,service,Business,Consumer,Investment,location,FL,availability,1
-name,Ricki Keeling,language,English,Spanish,Vietnamese,service,Consumer,Business,Investment,location,NJ,availability,1
-name,Allicia Hansen,language,English,Persian,Spanish,service,Consumer,Home Loan,Investment,location,TX,availability,1
-name,Josey Palma,language,English,Spanish,German,service,Consumer,Investment,Business,location,OH,availability,1
-name,Erich Nunez,language,English,Spanish,Romanian,service,Home Loan,Business,Investment,location,NC,availability,1
-name,Charlotte Lovett,language,English,Spanish,Arabic,service,Consumer,Home Loan,Business,location,CA,availability,0
-name,Kwame Marlowe,language,English,Spanish,Hindi,service,Consumer,Business,Investment,location,GA,availability,1
-name,Denetra Mosher,language,English,Spanish,Tagalog,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Magan Doyle,language,English,Chinese,German,service,Investment,Business,Consumer,location,TN,availability,1
-name,Christa Mcbee,language,English,Tagalog,Russian,service,Business,Home Loan,Consumer,location,MI,availability,0
-name,Marshal Pino,language,English,Spanish,Russian,service,Business,Consumer,Home Loan,location,IL,availability,1
-name,Paulina Gordon,language,English,Spanish,Italian,service,Consumer,Business,Home Loan,location,FL,availability,1
-name,Daria Abell,language,English,Spanish,Italian,service,Home Loan,Investment,Business,location,NJ,availability,1
-name,Patience Spriggs,language,English,Spanish,Tagalog,service,Home Loan,Business,Investment,location,AZ,availability,0
-name,Gabriela Salinas,language,English,Spanish,Vietnamese,service,Home Loan,Business,Consumer,location,TX,availability,1
-name,Paxton Rudd,language,English,Chinese,Arabic,service,Business,Investment,Home Loan,location,RI,availability,1
-name,Mayra Courtney,language,English,Portugese,Spanish,service,Investment,Home Loan,Consumer,location,GA,availability,1
-name,My Prentice,language,English,Spanish,French,service,Investment,Business,Consumer,location,CA,availability,0
-name,Kellye Medlin,language,English,Spanish,Greek,service,Home Loan,Consumer,Business,location,FL,availability,0
-name,Kaylin Woody,language,English,Spanish,Tagalog,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Shavonne Mendes,language,English,Spanish,Korean,service,Investment,Business,Consumer,location,CA,availability,0
-name,Ashli Edmondson,language,English,Spanish,Tagalog,service,Investment,Consumer,Home Loan,location,NJ,availability,0
-name,Marguita Ellsworth,language,English,Spanish,Arabic,service,Home Loan,Business,Investment,location,MA,availability,0
-name,Jasen Doherty,language,English,Arabic,Spanish,service,Investment,Home Loan,Consumer,location,NH,availability,0
-name,Martha Hoke,language,English,Spanish,Italian,service,Investment,Consumer,Business,location,TN,availability,1
-name,Clemente Finney,language,English,Spanish,Tagalog,service,Investment,Consumer,Business,location,TX,availability,0
-name,Jarad Bohn,language,English,German,Spanish,service,Consumer,Home Loan,Business,location,FL,availability,1
-name,Jonathan Kramer,language,English,Spanish,Japanese,service,Business,Consumer,Home Loan,location,TX,availability,1
-name,Brigette Nicholas,language,English,Polish,Spanish,service,Home Loan,Business,Investment,location,CT,availability,1
-name,Jeromy Olivo,language,English,Spanish,Romanian,service,Home Loan,Business,Investment,location,TX,availability,1
-name,Ashlie Mccormick,language,English,Spanish,Arabic,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Lana Helms,language,English,Spanish,Greek,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Juancarlos Levesque,language,English,Spanish,Korean,service,Home Loan,Consumer,Business,location,SC,availability,1
-name,Hollis Bauman,language,English,Spanish,Korean,service,Consumer,Business,Home Loan,location,OR,availability,0
-name,Myra Klinger,language,English,Spanish,French,service,Consumer,Home Loan,Business,location,NY,availability,0
-name,Major Banner,language,English,Russian,Spanish,service,Consumer,Investment,Home Loan,location,TX,availability,1
-name,Stefani Napier,language,English,Spanish,Korean,service,Investment,Business,Consumer,location,GA,availability,1
-name,Xavier Bachman,language,English,Korean,French,service,Consumer,Business,Investment,location,CT,availability,1
-name,Joseph Sheffield,language,English,Spanish,Portugese,service,Consumer,Investment,Business,location,NC,availability,1
-name,Shawn Nesmith,language,English,Spanish,Chinese,service,Investment,Business,Consumer,location,CA,availability,0
-name,Flora Arriola,language,English,Spanish,Vietnamese,service,Investment,Business,Consumer,location,GA,availability,0
-name,Kellianne Kimble,language,English,Spanish,Chinese,service,Investment,Home Loan,Business,location,NJ,availability,1
-name,Ezekiel Byars,language,English,Spanish,Vietnamese,service,Home Loan,Business,Investment,location,PA,availability,0
-name,Lynna Woodbury,language,English,French,Vietnamese,service,Investment,Business,Home Loan,location,NJ,availability,1
-name,Linsey Pinto,language,English,Chinese,Spanish,service,Investment,Business,Consumer,location,NC,availability,1
-name,Delana Stull,language,English,Spanish,Arabic,service,Consumer,Investment,Business,location,CA,availability,0
-name,Dedra Mccabe,language,English,Spanish,Russian,service,Consumer,Investment,Business,location,CA,availability,0
-name,Aviva Magana,language,English,Hindi,French,service,Investment,Business,Home Loan,location,FL,availability,1
-name,Tamera Leone,language,English,Spanish,Chinese,service,Consumer,Home Loan,Investment,location,WA,availability,0
-name,Tynisha Marroquin,language,English,Korean,Spanish,service,Consumer,Investment,Home Loan,location,FL,availability,1
-name,Khalid Ruby,language,English,German,Tagalog,service,Home Loan,Business,Investment,location,WA,availability,0
-name,Fannie Mosher,language,English,Korean,Portugese,service,Consumer,Investment,Home Loan,location,NY,availability,1
-name,Fannie Muller,language,English,Spanish,French,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Lucio Bard,language,English,Spanish,German,service,Consumer,Investment,Home Loan,location,NJ,availability,1
-name,Kendyl Cross,language,English,Spanish,Arabic,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Yehuda Tompkins,language,English,French,Spanish,service,Investment,Consumer,Home Loan,location,IL,availability,1
-name,Tommie Saul,language,English,Korean,Spanish,service,Investment,Business,Home Loan,location,NY,availability,0
-name,Jose Moorman,language,English,Spanish,Vietnamese,service,Business,Consumer,Home Loan,location,TN,availability,1
-name,Colt Lay,language,English,Spanish,Russian,service,Consumer,Home Loan,Investment,location,NY,availability,1
-name,Davida Campbell,language,English,Spanish,Tagalog,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Britni Bonner,language,English,Spanish,Vietnamese,service,Business,Investment,Home Loan,location,MI,availability,1
-name,Juana Najera,language,English,Spanish,Tagalog,service,Investment,Consumer,Business,location,AZ,availability,0
-name,Leroy Raley,language,English,Chinese,German,service,Investment,Consumer,Business,location,CA,availability,0
-name,Kory Reynoso,language,English,Spanish,Italian,service,Investment,Consumer,Home Loan,location,SC,availability,1
-name,Jennelle Kohl,language,English,Arabic,Spanish,service,Business,Consumer,Home Loan,location,TX,availability,1
-name,Charla Parr,language,English,Spanish,Portugese,service,Consumer,Investment,Business,location,CA,availability,0
-name,Tzvi Eggleston,language,English,Vietnamese,Spanish,service,Business,Home Loan,Investment,location,NY,availability,0
-name,Evita Mcneill,language,English,Spanish,Chinese,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Asma Miner,language,English,Spanish,Polish,service,Consumer,Home Loan,Business,location,CA,availability,0
-name,Marcie Cullen,language,English,Spanish,Vietnamese,service,Home Loan,Consumer,Investment,location,AZ,availability,0
-name,Kane Blue,language,English,Spanish,Tagalog,service,Consumer,Investment,Business,location,CA,availability,0
-name,Byron Vincent,language,English,Spanish,Chinese,service,Investment,Consumer,Home Loan,location,ME,availability,1
-name,Derek Burger,language,English,Spanish,Vietnamese,service,Business,Consumer,Investment,location,TX,availability,1
-name,Asma Benton,language,English,Spanish,Vietnamese,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Stephen Welsh,language,English,Spanish,Persian,service,Consumer,Investment,Business,location,FL,availability,1
-name,Tawanda Magnuson,language,English,Spanish,Chinese,service,Investment,Home Loan,Business,location,FL,availability,1
-name,Ashanti Gaskin,language,English,Spanish,Japanese,service,Consumer,Business,Home Loan,location,WA,availability,0
-name,Jai Catalano,language,English,Spanish,Chinese,service,Investment,Home Loan,Consumer,location,NC,availability,1
-name,Javier Ivey,language,English,German,Spanish,service,Business,Consumer,Home Loan,location,CT,availability,1
-name,Candra Louis,language,English,Spanish,Tagalog,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Lincoln Lilly,language,English,Spanish,Russian,service,Business,Investment,Consumer,location,NY,availability,1
-name,Jajuan Pierson,language,English,Spanish,Thai,service,Investment,Home Loan,Business,location,NJ,availability,0
-name,Saleem Hawks,language,English,Spanish,Tagalog,service,Consumer,Home Loan,Investment,location,IL,availability,0
-name,Keira Terry,language,English,Spanish,Chinese,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Ernst Tisdale,language,English,Spanish,Tagalog,service,Business,Consumer,Investment,location,TX,availability,1
-name,Megen Meyers,language,English,Spanish,Chinese,service,Investment,Consumer,Home Loan,location,ME,availability,1
-name,Janielle Bigelow,language,English,Spanish,Italian,service,Consumer,Investment,Home Loan,location,AZ,availability,0
-name,Vishal Jansen,language,English,Spanish,Vietnamese,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Larae Shackelford,language,English,Spanish,Greek,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Thao Valencia,language,English,Spanish,Korean,service,Consumer,Investment,Home Loan,location,FL,availability,1
-name,Tyne Shores,language,English,Spanish,French,service,Investment,Home Loan,Consumer,location,NY,availability,1
-name,Claudio Hand,language,English,Hebrew,Chinese,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Ebonee Weston,language,English,Spanish,German,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Eve Mcclure,language,English,Spanish,Tagalog,service,Investment,Consumer,Business,location,CA,availability,0
-name,Lakesha Billingsley,language,English,Spanish,Chinese,service,Investment,Home Loan,Business,location,MI,availability,1
-name,Andy Muse,language,English,German,Spanish,service,Home Loan,Consumer,Business,location,NY,availability,1
-name,Lupe Carlin,language,English,Spanish,French,service,Consumer,Investment,Business,location,IL,availability,1
-name,Stepahnie Winter,language,English,Spanish,Vietnamese,service,Business,Consumer,Investment,location,WA,availability,0
-name,Henri Shorter,language,English,Spanish,Tagalog,service,Business,Investment,Home Loan,location,CA,availability,0
-name,Shanica Pitt,language,English,Spanish,Chinese,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Wayland Bolt,language,English,Spanish,Russian,service,Investment,Consumer,Business,location,VA,availability,1
-name,Alona Treadwell,language,English,Spanish,Italian,service,Investment,Home Loan,Business,location,TX,availability,1
-name,Latoya Martin,language,English,Arabic,French,service,Home Loan,Investment,Business,location,NH,availability,1
-name,Stefanie Mcqueen,language,English,Spanish,French,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Jennafer Burchfield,language,English,Portugese,Spanish,service,Consumer,Business,Home Loan,location,PA,availability,1
-name,Marquisha Mead,language,English,Spanish,German,service,Investment,Business,Consumer,location,TN,availability,0
-name,Keriann Coffey,language,English,Spanish,Vietnamese,service,Business,Consumer,Home Loan,location,TX,availability,1
-name,Hubert Ferry,language,English,Spanish,Chinese,service,Consumer,Investment,Home Loan,location,FL,availability,1
-name,Pang Givens,language,English,Spanish,Persian,service,Business,Home Loan,Investment,location,TX,availability,1
-name,Wiliam Keene,language,English,Spanish,French,service,Business,Consumer,Investment,location,NY,availability,1
-name,Iliana Chatman,language,English,Spanish,German,service,Home Loan,Consumer,Investment,location,NY,availability,1
-name,Rocio Maloney,language,English,Korean,Hindi,service,Consumer,Business,Home Loan,location,TX,availability,1
-name,Erica Braxton,language,English,Spanish,Polish,service,Investment,Home Loan,Consumer,location,CA,availability,0
-name,Clemente Coughlin,language,English,Vietnamese,Italian,service,Home Loan,Consumer,Business,location,TN,availability,0
-name,Klye Worley,language,English,Spanish,Italian,service,Home Loan,Consumer,Investment,location,IL,availability,1
-name,Kalie Ludwig,language,English,Portugese,Spanish,service,Investment,Consumer,Business,location,MI,availability,1
-name,Dayne Zeller,language,English,Korean,Spanish,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Rhonda Peak,language,English,Spanish,Russian,service,Home Loan,Business,Consumer,location,FL,availability,1
-name,Lonny Rudd,language,English,Chinese,Spanish,service,Consumer,Home Loan,Investment,location,MO,availability,0
-name,Irving Sorrell,language,English,Italian,Spanish,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Faye Kruse,language,English,Spanish,Italian,service,Business,Home Loan,Consumer,location,FL,availability,0
-name,Emile Hollingsworth,language,English,Italian,Spanish,service,Investment,Consumer,Business,location,TX,availability,1
-name,Deron Cantwell,language,English,Spanish,Korean,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Tyrice Sparkman,language,English,Spanish,Persian,service,Business,Home Loan,Investment,location,VA,availability,0
-name,Obrian Eastman,language,English,Spanish,Thai,service,Investment,Home Loan,Business,location,FL,availability,0
-name,Zainab Bruce,language,English,Spanish,Vietnamese,service,Home Loan,Business,Investment,location,SC,availability,1
-name,Kassondra Schulze,language,English,Spanish,Polish,service,Home Loan,Investment,Business,location,WA,availability,0
-name,Katlin Silas,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Desi Pointer,language,English,French,Spanish,service,Business,Investment,Home Loan,location,WA,availability,0
-name,Julianne Workman,language,English,Spanish,Portugese,service,Business,Consumer,Home Loan,location,GA,availability,1
-name,Blaine Dietrich,language,English,Hebrew,Spanish,service,Consumer,Home Loan,Business,location,SC,availability,0
-name,Sherrod Barbee,language,English,Spanish,French,service,Business,Consumer,Investment,location,NY,availability,1
-name,Kendall Carrasco,language,English,Polish,Spanish,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Velvet Wilcox,language,English,Polish,Japanese,service,Business,Investment,Home Loan,location,NV,availability,0
-name,Eloise Cervantes,language,English,Spanish,Tagalog,service,Business,Investment,Consumer,location,CA,availability,0
-name,Connor Kearney,language,English,Korean,Spanish,service,Investment,Consumer,Business,location,MA,availability,1
-name,Brittnie Mata,language,English,Japanese,Spanish,service,Consumer,Home Loan,Investment,location,FL,availability,1
-name,Niccole Colby,language,English,Spanish,Chinese,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Marcie Miley,language,English,Spanish,Portugese,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Ciara Fajardo,language,English,Spanish,Korean,service,Investment,Consumer,Home Loan,location,MD,availability,1
-name,Karissa Gardiner,language,English,Arabic,Spanish,service,Consumer,Business,Investment,location,MI,availability,1
-name,Brandon Lugo,language,English,Chinese,Spanish,service,Investment,Business,Consumer,location,IL,availability,1
-name,Jacinda Gustafson,language,English,French,Tagalog,service,Business,Home Loan,Consumer,location,MD,availability,1
-name,Shanay Montero,language,English,Spanish,Portugese,service,Home Loan,Investment,Consumer,location,TN,availability,1
-name,Vivek Heinz,language,English,Spanish,Korean,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Grant Robledo,language,English,Spanish,Russian,service,Consumer,Investment,Business,location,PA,availability,0
-name,Willow Cushman,language,English,Spanish,French,service,Investment,Business,Consumer,location,CA,availability,0
-name,Lakiesha Godinez,language,English,Japanese,German,service,Home Loan,Business,Investment,location,NY,availability,1
-name,Joslyn Bunker,language,English,Spanish,Korean,service,Business,Home Loan,Consumer,location,MA,availability,1
-name,Hiram Salinas,language,English,Spanish,Russian,service,Consumer,Investment,Business,location,FL,availability,1
-name,Elvin Boyette,language,English,Arabic,Spanish,service,Home Loan,Consumer,Business,location,CT,availability,0
-name,Lashell Haynes,language,English,Spanish,Chinese,service,Home Loan,Consumer,Investment,location,SC,availability,1
-name,Alesia Cavazos,language,English,Spanish,Chinese,service,Business,Consumer,Home Loan,location,TX,availability,1
-name,Lorissa Mangum,language,English,Spanish,German,service,Consumer,Investment,Business,location,PA,availability,1
-name,Shalena Waldron,language,English,Spanish,French,service,Consumer,Home Loan,Business,location,WA,availability,0
-name,Leighton Esparza,language,English,Spanish,French,service,Home Loan,Investment,Business,location,GA,availability,1
-name,Jonpaul Lancaster,language,English,Spanish,French,service,Home Loan,Investment,Business,location,CA,availability,0
-name,Teran Nielsen,language,English,Italian,Russian,service,Business,Consumer,Investment,location,TX,availability,1
-name,Jonte Valle,language,English,Spanish,Chinese,service,Investment,Consumer,Home Loan,location,NY,availability,1
-name,Scott Pitts,language,English,Spanish,Tagalog,service,Investment,Consumer,Business,location,OR,availability,0
-name,Jerrel Calkins,language,English,Spanish,Italian,service,Investment,Consumer,Business,location,TX,availability,1
-name,Annamaria Plummer,language,English,Spanish,Tagalog,service,Consumer,Home Loan,Business,location,NJ,availability,0
-name,Ralph Pelletier,language,English,Spanish,Korean,service,Consumer,Home Loan,Business,location,OK,availability,0
-name,Ceasar Briggs,language,English,Spanish,German,service,Home Loan,Business,Consumer,location,NV,availability,0
-name,Wally Blais,language,English,Spanish,Vietnamese,service,Business,Investment,Home Loan,location,NJ,availability,1
-name,August Maguire,language,English,Chinese,Spanish,service,Investment,Home Loan,Consumer,location,TN,availability,1
-name,Israel Fennell,language,English,Greek,Spanish,service,Investment,Home Loan,Business,location,AZ,availability,0
-name,Shonta Scholl,language,English,Spanish,Chinese,service,Business,Consumer,Home Loan,location,CA,availability,0
-name,Cherilyn Hooper,language,English,Spanish,Tagalog,service,Business,Consumer,Investment,location,NJ,availability,1
-name,Joaquin Reeves,language,English,Spanish,Tagalog,service,Business,Home Loan,Investment,location,TX,availability,1
-name,Takara Markham,language,English,Spanish,Vietnamese,service,Investment,Business,Consumer,location,MI,availability,1
-name,Dino Engle,language,English,Spanish,Italian,service,Consumer,Home Loan,Investment,location,NH,availability,1
-name,Ariana Byrd,language,English,Portugese,German,service,Business,Investment,Home Loan,location,WA,availability,0
-name,Joslin Falls,language,English,Ukranian,Chinese,service,Consumer,Home Loan,Business,location,MD,availability,1
-name,Dyanna Crockett,language,English,Korean,Spanish,service,Business,Home Loan,Investment,location,AZ,availability,0
-name,Lissette Pendleton,language,English,Spanish,Chinese,service,Business,Home Loan,Investment,location,OH,availability,1
-name,Markus Dill,language,English,Italian,Chinese,service,Investment,Home Loan,Consumer,location,CA,availability,0
-name,Lilly Dailey,language,English,Spanish,Hindi,service,Business,Consumer,Investment,location,ME,availability,1
-name,Lasandra Emery,language,English,Tagalog,Spanish,service,Consumer,Business,Investment,location,IL,availability,1
-name,Janett Mount,language,English,Turkish,Spanish,service,Investment,Consumer,Home Loan,location,NV,availability,1
-name,Jerold Laughlin,language,English,Spanish,Japanese,service,Home Loan,Investment,Consumer,location,NV,availability,0
-name,Xochitl Cordova,language,English,Arabic,Spanish,service,Business,Home Loan,Consumer,location,TX,availability,1
-name,Abdullah Kahn,language,English,Spanish,Greek,service,Investment,Business,Home Loan,location,WA,availability,0
-name,Jennalee Bauman,language,English,Spanish,Italian,service,Consumer,Home Loan,Business,location,OR,availability,0
-name,Alejandra Gore,language,English,Spanish,Thai,service,Investment,Home Loan,Consumer,location,GA,availability,0
-name,Kennon Adair,language,English,Spanish,German,service,Home Loan,Consumer,Business,location,OR,availability,1
-name,Siri Becnel,language,English,Spanish,Arabic,service,Consumer,Investment,Business,location,CA,availability,0
-name,Zach Van,language,English,Spanish,Hindi,service,Home Loan,Business,Consumer,location,NV,availability,1
-name,Jamee Lewandowski,language,English,Spanish,Russian,service,Consumer,Home Loan,Business,location,IL,availability,0
-name,Ryder Mcnabb,language,English,Spanish,German,service,Home Loan,Business,Investment,location,OK,availability,1
-name,Kaylen Johansen,language,English,Spanish,Chinese,service,Consumer,Business,Investment,location,TX,availability,0
-name,Anneliese Clausen,language,English,Spanish,Hindi,service,Consumer,Investment,Home Loan,location,WA,availability,0
-name,Patrick Canada,language,English,Spanish,Japanese,service,Consumer,Investment,Home Loan,location,PA,availability,1
-name,Kalen Trammell,language,English,German,Spanish,service,Consumer,Investment,Business,location,MA,availability,1
-name,Deonte Nguyen,language,English,Spanish,Chinese,service,Investment,Consumer,Home Loan,location,NH,availability,1
-name,Anisa Downing,language,English,Spanish,Korean,service,Home Loan,Investment,Consumer,location,TN,availability,1
-name,Moses Villegas,language,English,Spanish,Tagalog,service,Business,Home Loan,Consumer,location,MD,availability,1
-name,Tessa Royal,language,English,Spanish,Chinese,service,Home Loan,Consumer,Investment,location,MI,availability,1
-name,Ward Deluca,language,English,Korean,Spanish,service,Business,Home Loan,Consumer,location,TX,availability,1
-name,Tiffaney Hannah,language,English,Spanish,Polish,service,Consumer,Business,Investment,location,CA,availability,0
-name,Corrine Meredith,language,English,Spanish,German,service,Investment,Business,Consumer,location,SC,availability,1
-name,Catie Wynn,language,English,Spanish,Tagalog,service,Business,Consumer,Investment,location,CA,availability,0
-name,Kieth Doss,language,English,Vietnamese,Spanish,service,Investment,Consumer,Business,location,NJ,availability,1
-name,Reyes Choate,language,English,Spanish,German,service,Investment,Home Loan,Consumer,location,FL,availability,1
-name,Sally Stjohn,language,English,Tagalog,Spanish,service,Investment,Business,Home Loan,location,TX,availability,1
-name,Triston Ahmad,language,English,Spanish,German,service,Business,Home Loan,Consumer,location,MA,availability,1
-name,Kristeen Mccollum,language,English,Spanish,Japanese,service,Consumer,Business,Investment,location,IL,availability,1
-name,Teresa Miles,language,English,Spanish,Italian,service,Investment,Business,Consumer,location,CA,availability,0
-name,Karli Tran,language,English,Hindi,Spanish,service,Consumer,Investment,Home Loan,location,FL,availability,1
-name,Dallin Arnett,language,English,Spanish,Polish,service,Home Loan,Business,Investment,location,VA,availability,1
-name,Tashika Levesque,language,English,Spanish,Romanian,service,Home Loan,Investment,Consumer,location,FL,availability,1
-name,Maryellen Reeve,language,English,Italian,Spanish,service,Business,Home Loan,Investment,location,VA,availability,1
-name,Rion Bonilla,language,English,French,Spanish,service,Home Loan,Consumer,Business,location,MI,availability,0
-name,Sondra Starr,language,English,Spanish,Tagalog,service,Consumer,Home Loan,Investment,location,CT,availability,1
-name,Kip Mclean,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,TX,availability,0
-name,Nils Lawless,language,English,Spanish,French,service,Business,Consumer,Home Loan,location,IL,availability,1
-name,Ophelia Armijo,language,English,Persian,Spanish,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Anjelica Correa,language,English,Spanish,Hindi,service,Investment,Business,Home Loan,location,NJ,availability,1
-name,Aleta Cromwell,language,English,Spanish,Hindi,service,Business,Consumer,Investment,location,TX,availability,0
-name,Kathrine Kahn,language,English,Spanish,Chinese,service,Investment,Business,Home Loan,location,IL,availability,1
-name,Ivy Lewandowski,language,English,Spanish,Chinese,service,Home Loan,Consumer,Investment,location,NH,availability,1
-name,Weston Freese,language,English,Spanish,Hindi,service,Consumer,Business,Investment,location,FL,availability,0
-name,Eugene Goldsmith,language,English,Spanish,Tagalog,service,Investment,Business,Consumer,location,FL,availability,1
-name,Glenna Counts,language,English,Spanish,French,service,Business,Home Loan,Consumer,location,NJ,availability,1
-name,Harry Shepherd,language,English,Vietnamese,French,service,Investment,Business,Home Loan,location,NC,availability,1
-name,Nash Tucker,language,English,Spanish,Chinese,service,Investment,Business,Consumer,location,CO,availability,1
-name,Tashawna Keen,language,English,Spanish,Korean,service,Consumer,Business,Investment,location,UT,availability,1
-name,Annalisa Ragan,language,English,Spanish,Portugese,service,Home Loan,Consumer,Business,location,MO,availability,1
-name,Keegan Lanier,language,English,Spanish,Tagalog,service,Investment,Business,Home Loan,location,NY,availability,1
-name,Keila Rausch,language,English,Spanish,Portugese,service,Investment,Business,Home Loan,location,NC,availability,0
-name,Cleveland Dew,language,English,Spanish,Japanese,service,Home Loan,Business,Consumer,location,TX,availability,0
-name,Tierney Chase,language,English,Spanish,Chinese,service,Consumer,Business,Home Loan,location,CT,availability,1
-name,Syed Ferreira,language,English,Spanish,Italian,service,Consumer,Investment,Business,location,MI,availability,1
-name,Deisy White,language,English,French,Spanish,service,Home Loan,Business,Investment,location,FL,availability,0
-name,Ashlea Groce,language,English,Spanish,Portugese,service,Investment,Consumer,Business,location,DE,availability,1
-name,Lynell Wilke,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,NY,availability,1
-name,Kathleen Mcmurray,language,English,Spanish,Polish,service,Consumer,Home Loan,Investment,location,NJ,availability,1
-name,Faye Shafer,language,English,Portugese,Spanish,service,Business,Investment,Consumer,location,CT,availability,1
-name,Meggie Hamlin,language,English,Spanish,German,service,Investment,Home Loan,Business,location,MD,availability,1
-name,Lizbeth Pollock,language,English,Spanish,Chinese,service,Consumer,Investment,Business,location,CT,availability,1
-name,Rapheal Kenny,language,English,Spanish,Portugese,service,Business,Consumer,Investment,location,TX,availability,1
-name,Gerri Begley,language,English,Spanish,Polish,service,Consumer,Business,Home Loan,location,MA,availability,0
-name,Tahnee Rodrigues,language,English,Korean,Spanish,service,Business,Home Loan,Consumer,location,TX,availability,1
-name,Kofi Rhea,language,English,Spanish,Chinese,service,Home Loan,Consumer,Business,location,FL,availability,1
-name,Denielle Steadman,language,English,Spanish,Korean,service,Consumer,Home Loan,Business,location,TX,availability,1
-name,Kristi Trent,language,English,Spanish,Greek,service,Business,Home Loan,Investment,location,OR,availability,0
-name,Bennie Deal,language,English,Hebrew,Tagalog,service,Consumer,Home Loan,Business,location,MA,availability,1
-name,Isabel Wheatley,language,English,Spanish,Vietnamese,service,Business,Investment,Consumer,location,NJ,availability,1
-name,Abram Hendrick,language,English,Spanish,Chinese,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Shellie Zapata,language,English,Spanish,Chinese,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Jori Desantis,language,English,Spanish,Portugese,service,Investment,Business,Home Loan,location,TN,availability,1
-name,Adina Nunley,language,English,Spanish,Arabic,service,Investment,Home Loan,Business,location,NC,availability,1
-name,Anson Bowden,language,English,Spanish,Greek,service,Investment,Consumer,Business,location,NV,availability,1
-name,Marketta Cornejo,language,English,Spanish,Portugese,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Paloma Herbert,language,English,Spanish,Vietnamese,service,Home Loan,Investment,Consumer,location,FL,availability,1
-name,Barry Connor,language,English,Vietnamese,Spanish,service,Investment,Business,Home Loan,location,FL,availability,1
-name,Kanisha Renfro,language,English,Spanish,French,service,Business,Home Loan,Investment,location,CT,availability,0
-name,Sharita Whitehurst,language,English,French,Spanish,service,Investment,Consumer,Business,location,NY,availability,0
-name,Myles Matias,language,English,Spanish,Chinese,service,Investment,Business,Home Loan,location,CT,availability,1
-name,Karli Walling,language,English,Spanish,Vietnamese,service,Business,Investment,Consumer,location,MA,availability,1
-name,Shareka Snowden,language,English,French,Chinese,service,Investment,Business,Consumer,location,MA,availability,0
-name,Rasheena Hatton,language,English,Chinese,Spanish,service,Home Loan,Business,Consumer,location,SC,availability,0
-name,Kathryn Bolden,language,English,Spanish,Chinese,service,Investment,Home Loan,Consumer,location,MA,availability,1
-name,Stephon Perdue,language,English,Spanish,Korean,service,Home Loan,Business,Investment,location,KS,availability,1
-name,Shawana Marion,language,English,Polish,Spanish,service,Home Loan,Consumer,Investment,location,CT,availability,0
-name,Scarlet Battles,language,English,Spanish,Vietnamese,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Chari Frey,language,English,Spanish,Portugese,service,Investment,Home Loan,Consumer,location,WA,availability,0
-name,Meg Waldrop,language,English,Spanish,Korean,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Breeann Youngblood,language,English,Spanish,Arabic,service,Business,Investment,Home Loan,location,FL,availability,1
-name,Adrienne Purvis,language,English,Spanish,Italian,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Sasha Zamora,language,English,French,German,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Rhyan Rivers,language,English,Spanish,Chinese,service,Consumer,Home Loan,Investment,location,MA,availability,1
-name,Kaylee Sandberg,language,English,Spanish,Greek,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Desiray Vangshea,language,English,Spanish,German,service,Investment,Consumer,Home Loan,location,TX,availability,0
-name,Marcel Moeller,language,English,Spanish,Chinese,service,Home Loan,Investment,Business,location,WA,availability,0
-name,Dan Mcvay,language,English,Spanish,Chinese,service,Investment,Consumer,Business,location,NJ,availability,1
-name,Jordan Mount,language,English,Spanish,Vietnamese,service,Home Loan,Consumer,Business,location,PA,availability,0
-name,Josephine Barone,language,English,Spanish,Portugese,service,Investment,Home Loan,Consumer,location,NY,availability,1
-name,Davie Hanna,language,English,Spanish,Polish,service,Home Loan,Investment,Consumer,location,MA,availability,1
-name,Jessica Wagoner,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,CA,availability,0
-name,Shemeka Bruner,language,English,Tagalog,Spanish,service,Investment,Consumer,Home Loan,location,NJ,availability,1
-name,Terrell Isom,language,English,French,Vietnamese,service,Business,Consumer,Investment,location,NY,availability,0
-name,Jeanelle Seal,language,English,Spanish,Chinese,service,Home Loan,Investment,Consumer,location,GA,availability,1
-name,Edna Jarrett,language,English,Spanish,Korean,service,Business,Home Loan,Investment,location,CA,availability,0
-name,Rishi Mccartney,language,English,Spanish,Arabic,service,Investment,Business,Consumer,location,NJ,availability,1
-name,Meredith Willis,language,English,Tagalog,Spanish,service,Business,Consumer,Investment,location,MI,availability,1
-name,Beatriz Olmstead,language,English,Spanish,Hindi,service,Consumer,Home Loan,Business,location,PA,availability,1
-name,Dinah Sorensen,language,English,Spanish,German,service,Home Loan,Consumer,Business,location,AZ,availability,0
-name,Lashanna Stiltner,language,English,Spanish,Korean,service,Investment,Consumer,Business,location,CA,availability,0
-name,Hunter Watters,language,English,Spanish,French,service,Consumer,Investment,Business,location,CT,availability,1
-name,Tovah Torrez,language,English,Spanish,Hebrew,service,Home Loan,Business,Consumer,location,TN,availability,0
-name,Stefani Strong,language,English,Spanish,Chinese,service,Investment,Business,Consumer,location,IL,availability,1
-name,Madonna Mccrory,language,English,Portugese,Spanish,service,Business,Investment,Consumer,location,CA,availability,0
-name,Jeannie Eldridge,language,English,Chinese,Spanish,service,Business,Consumer,Investment,location,CA,availability,0
-name,Kiona Hansen,language,English,Spanish,Chinese,service,Home Loan,Consumer,Business,location,WA,availability,0
-name,Cheyanne Flaherty,language,English,Spanish,Japanese,service,Business,Investment,Home Loan,location,FL,availability,0
-name,Allie Valencia,language,English,Spanish,French,service,Investment,Consumer,Home Loan,location,OR,availability,1
-name,Shanita Douglass,language,English,Spanish,Chinese,service,Investment,Consumer,Business,location,NJ,availability,1
-name,Jashua Augustine,language,English,Spanish,Russian,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Stormi Gabriel,language,English,Spanish,Portugese,service,Business,Consumer,Investment,location,NJ,availability,1
-name,Mckinley Ortiz,language,English,Spanish,French,service,Home Loan,Investment,Business,location,TX,availability,1
-name,Jamall Barrios,language,English,Spanish,Vietnamese,service,Consumer,Business,Investment,location,NJ,availability,0
-name,Shireen Madsen,language,English,Spanish,Thai,service,Consumer,Home Loan,Business,location,MA,availability,1
-name,Romona Sonnier,language,English,Spanish,German,service,Home Loan,Consumer,Business,location,PA,availability,1
-name,Ian Rodgers,language,English,Spanish,French,service,Business,Investment,Home Loan,location,RI,availability,1
-name,Howard Schuster,language,English,German,Arabic,service,Business,Consumer,Home Loan,location,NJ,availability,1
-name,Alica Erwin,language,English,Spanish,Korean,service,Business,Investment,Home Loan,location,CA,availability,0
-name,Chad Marino,language,English,Spanish,Tagalog,service,Consumer,Home Loan,Business,location,VA,availability,1
-name,Monte Lassiter,language,English,Spanish,Vietnamese,service,Business,Investment,Consumer,location,AZ,availability,0
-name,Chirag Lowry,language,English,Spanish,Hindi,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Elma Bernhardt,language,English,German,Spanish,service,Business,Consumer,Home Loan,location,VA,availability,1
-name,Kirstie Sumpter,language,English,Tagalog,Arabic,service,Consumer,Investment,Home Loan,location,RI,availability,1
-name,Tamieka Byrd,language,English,Spanish,Japanese,service,Home Loan,Consumer,Business,location,TX,availability,1
-name,Emily Gooding,language,English,Chinese,Spanish,service,Consumer,Home Loan,Business,location,OH,availability,1
-name,Ivana Clough,language,English,Spanish,Polish,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Stefania Mosier,language,English,Spanish,Greek,service,Business,Home Loan,Consumer,location,CT,availability,1
-name,Binh Fair,language,English,Spanish,Tagalog,service,Investment,Business,Home Loan,location,CA,availability,0
-name,Sheana Diaz,language,English,Spanish,French,service,Business,Investment,Consumer,location,NJ,availability,1
-name,Diandra Badger,language,English,Spanish,French,service,Home Loan,Consumer,Investment,location,RI,availability,0
-name,Gaetano House,language,English,Spanish,Polish,service,Business,Investment,Home Loan,location,IL,availability,1
-name,Rochelle Terrell,language,English,Spanish,Vietnamese,service,Business,Investment,Consumer,location,NY,availability,1
-name,Darryl Ogle,language,English,Chinese,Spanish,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Kandace Briseno,language,English,Spanish,Arabic,service,Consumer,Investment,Business,location,GA,availability,1
-name,Estevan Buss,language,English,Spanish,Italian,service,Home Loan,Consumer,Investment,location,CA,availability,0
-name,Adrea Barrientos,language,English,Spanish,Greek,service,Business,Home Loan,Investment,location,VA,availability,1
-name,Laurel Barrientos,language,English,Spanish,Arabic,service,Home Loan,Business,Investment,location,GA,availability,0
-name,Darien Bustos,language,English,Spanish,Hindi,service,Investment,Business,Home Loan,location,TX,availability,0
-name,Kenji Bolin,language,English,Spanish,Chinese,service,Business,Investment,Home Loan,location,NY,availability,0
-name,Michelle Romo,language,English,Spanish,Tagalog,service,Home Loan,Business,Investment,location,WA,availability,0
-name,Heriberto Medeiros,language,English,Portugese,Spanish,service,Consumer,Investment,Business,location,MD,availability,1
-name,Iliana Moseley,language,English,Spanish,Russian,service,Consumer,Investment,Home Loan,location,NY,availability,1
-name,Tiffanie Holman,language,English,Spanish,Vietnamese,service,Consumer,Home Loan,Investment,location,CA,availability,0
-name,Johnathon Cheek,language,English,Korean,Spanish,service,Consumer,Investment,Business,location,NC,availability,1
-name,Cyrus Sikes,language,English,Spanish,German,service,Business,Investment,Consumer,location,FL,availability,1
-name,Alfonzo Goolsby,language,English,Spanish,Chinese,service,Home Loan,Business,Investment,location,TX,availability,1
-name,Anneliese Scarborough,language,English,Persian,Spanish,service,Business,Home Loan,Investment,location,NY,availability,1
-name,Savana Strom,language,English,Russian,Spanish,service,Business,Consumer,Investment,location,FL,availability,0
-name,Josephina Shipman,language,English,Chinese,Spanish,service,Business,Consumer,Investment,location,MD,availability,1
-name,Caitlyn Robb,language,English,Spanish,Vietnamese,service,Business,Consumer,Investment,location,FL,availability,0
-name,Jesika Yount,language,English,Spanish,Vietnamese,service,Home Loan,Investment,Business,location,PA,availability,1
-name,Daneil Mull,language,English,Spanish,German,service,Home Loan,Business,Investment,location,CA,availability,0
-name,Nichole Chism,language,English,Spanish,Polish,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Huong Wilkerson,language,English,Spanish,Arabic,service,Business,Home Loan,Investment,location,NJ,availability,1
-name,Teena Morgan,language,English,Spanish,Chinese,service,Business,Consumer,Home Loan,location,VA,availability,1
-name,Nils Harrington,language,English,Tagalog,Spanish,service,Business,Investment,Home Loan,location,UT,availability,1
-name,Arsenio Daily,language,English,Korean,Spanish,service,Consumer,Investment,Home Loan,location,CA,availability,0
-name,Charlee Lew,language,English,Spanish,Vietnamese,service,Consumer,Business,Home Loan,location,AZ,availability,0
-name,Savanna Mace,language,English,Hebrew,Spanish,service,Consumer,Investment,Business,location,FL,availability,1
-name,Emmett Perryman,language,English,Spanish,French,service,Consumer,Business,Home Loan,location,TX,availability,1
-name,Lamario Roach,language,English,Spanish,Chinese,service,Consumer,Business,Investment,location,NY,availability,1
-name,Whitnee Linder,language,English,Spanish,Thai,service,Investment,Consumer,Home Loan,location,WA,availability,0
-name,August Herndon,language,English,Spanish,German,service,Home Loan,Business,Investment,location,OK,availability,1
-name,Eric Card,language,English,Chinese,Russian,service,Investment,Home Loan,Business,location,AZ,availability,0
-name,Kodi Fuentes,language,English,French,Spanish,service,Business,Investment,Home Loan,location,GA,availability,1
-name,Marque Shearer,language,English,Spanish,Tagalog,service,Home Loan,Consumer,Investment,location,GA,availability,1
-name,Tyana Wortham,language,English,Spanish,Hebrew,service,Home Loan,Consumer,Business,location,TN,availability,1
-name,Samer Fischer,language,English,Spanish,Russian,service,Business,Home Loan,Investment,location,MA,availability,0
-name,Joshue Silas,language,English,Japanese,Spanish,service,Investment,Business,Home Loan,location,TX,availability,1
-name,Marques Jean,language,English,Spanish,Korean,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Daron Mathews,language,English,Spanish,Chinese,service,Consumer,Home Loan,Business,location,NJ,availability,0
-name,Teena Hutchison,language,English,Spanish,Chinese,service,Consumer,Business,Investment,location,WA,availability,0
-name,Iesha Qualls,language,English,Spanish,Tagalog,service,Consumer,Business,Investment,location,MI,availability,0
-name,Simona Gagne,language,English,Spanish,Italian,service,Consumer,Home Loan,Investment,location,TX,availability,1
-name,Jaquelyn Laporte,language,English,Russian,Spanish,service,Business,Consumer,Investment,location,TX,availability,1
-name,Avery Crow,language,English,Spanish,German,service,Home Loan,Consumer,Business,location,VA,availability,1
-name,Diedra Benner,language,English,Polish,Spanish,service,Business,Investment,Consumer,location,MI,availability,1
-name,Amberlee Grove,language,English,Italian,Spanish,service,Consumer,Business,Home Loan,location,CA,availability,0
-name,Chaka Dodd,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Uriel Mercer,language,English,Tagalog,Spanish,service,Home Loan,Consumer,Investment,location,NC,availability,1
-name,Alfreda Custer,language,English,Spanish,Chinese,service,Consumer,Investment,Business,location,FL,availability,1
-name,Michell Oconner,language,English,German,Spanish,service,Consumer,Investment,Home Loan,location,TX,availability,1
-name,Mahlon Chestnut,language,English,Spanish,Korean,service,Business,Home Loan,Consumer,location,NC,availability,1
-name,Tyesha Whalen,language,English,Spanish,Polish,service,Home Loan,Consumer,Business,location,MD,availability,1
-name,Jamey Shade,language,English,Spanish,Russian,service,Investment,Business,Consumer,location,IL,availability,0
-name,Jermane Carroll,language,English,Spanish,Tagalog,service,Home Loan,Investment,Consumer,location,FL,availability,1
-name,Emmett Hearn,language,English,Spanish,Russian,service,Business,Investment,Home Loan,location,WA,availability,0
-name,Eduardo Knoll,language,English,Spanish,French,service,Home Loan,Business,Investment,location,MI,availability,1
-name,Jose Salter,language,English,German,Spanish,service,Investment,Home Loan,Business,location,DC,availability,1
-name,Carmelita Major,language,English,Korean,Spanish,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Lashelle Irwin,language,English,Spanish,Chinese,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Donya Cramer,language,English,Arabic,Spanish,service,Investment,Business,Consumer,location,NY,availability,1
-name,Deena Marquis,language,English,Spanish,Arabic,service,Home Loan,Consumer,Investment,location,FL,availability,0
-name,Anh Abernathy,language,English,Spanish,French,service,Home Loan,Business,Investment,location,VA,availability,1
-name,Leighanne Gagnon,language,English,Spanish,Vietnamese,service,Business,Home Loan,Investment,location,TX,availability,1
-name,Candra Lorenz,language,English,Spanish,Korean,service,Home Loan,Consumer,Investment,location,TX,availability,1
-name,Jera Volz,language,English,Spanish,German,service,Business,Home Loan,Consumer,location,WA,availability,0
-name,Zach Bible,language,English,Spanish,Chinese,service,Business,Consumer,Home Loan,location,CT,availability,1
-name,Levar Fortune,language,English,Portugese,Korean,service,Consumer,Business,Home Loan,location,NY,availability,1
-name,Greer Akin,language,English,Spanish,Korean,service,Consumer,Home Loan,Business,location,FL,availability,1
-name,Lela Tyler,language,English,Spanish,Chinese,service,Home Loan,Business,Investment,location,GA,availability,1
-name,Martina Creamer,language,English,Spanish,Japanese,service,Home Loan,Consumer,Investment,location,NJ,availability,1
-name,Micheala Pitt,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,PA,availability,0
-name,Kayley Alvarez,language,English,Spanish,Chinese,service,Home Loan,Investment,Business,location,NC,availability,1
-name,Destini Lefebvre,language,English,Hindi,Spanish,service,Consumer,Business,Investment,location,CA,availability,0
-name,Ansley Elrod,language,English,Spanish,Hebrew,service,Investment,Business,Home Loan,location,NC,availability,0
-name,Johnna Diggs,language,English,Spanish,Tagalog,service,Consumer,Business,Home Loan,location,IL,availability,1
-name,Jeannine Welch,language,English,Chinese,Spanish,service,Investment,Business,Home Loan,location,CT,availability,0
-name,Jennelle Boatright,language,English,Spanish,Japanese,service,Investment,Business,Consumer,location,FL,availability,1
-name,Merle Whiteman,language,English,Arabic,Spanish,service,Home Loan,Investment,Consumer,location,FL,availability,0
-name,Chandler Connor,language,English,Korean,Chinese,service,Consumer,Home Loan,Investment,location,MA,availability,1
-name,Manuela Ryan,language,English,Spanish,Chinese,service,Investment,Business,Consumer,location,FL,availability,1
-name,Luiz Hopson,language,English,Arabic,Korean,service,Business,Home Loan,Consumer,location,CA,availability,0
-name,Magda Case,language,English,Spanish,Russian,service,Investment,Business,Consumer,location,CA,availability,0
-name,Anderson Laird,language,English,Spanish,Portugese,service,Investment,Home Loan,Business,location,NY,availability,1
-name,Isabel Taft,language,English,Spanish,Tagalog,service,Business,Consumer,Home Loan,location,CA,availability,0
-name,Chelsa Foley,language,English,Spanish,Arabic,service,Home Loan,Consumer,Business,location,CA,availability,0
-name,Stepahnie Burton,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,MA,availability,1
-name,Anthoney Grayson,language,English,Chinese,Tagalog,service,Home Loan,Business,Consumer,location,NJ,availability,0
-name,Chanell Seifert,language,English,Chinese,Russian,service,Consumer,Business,Home Loan,location,IL,availability,1
-name,Khalif Yarborough,language,English,Chinese,Tagalog,service,Investment,Home Loan,Business,location,FL,availability,1
-name,Lazaro Polanco,language,English,Spanish,French,service,Business,Consumer,Home Loan,location,CA,availability,0
-name,Cherita Oakley,language,English,Spanish,French,service,Consumer,Home Loan,Investment,location,NM,availability,1
-name,Leanna Battles,language,English,Spanish,German,service,Home Loan,Investment,Business,location,MO,availability,1
-name,Velma Elam,language,English,Spanish,Hindi,service,Business,Home Loan,Investment,location,OR,availability,1
-name,Jazzmine Canfield,language,English,Spanish,French,service,Investment,Home Loan,Consumer,location,MA,availability,0
-name,Opal Drew,language,English,Spanish,Italian,service,Home Loan,Business,Investment,location,SC,availability,1
-name,Avi Collett,language,English,Spanish,French,service,Business,Consumer,Investment,location,VA,availability,1
-name,Mohamed Mobley,language,English,Spanish,Chinese,service,Investment,Business,Home Loan,location,SC,availability,1
-name,Burke Loy,language,English,Hindi,Spanish,service,Investment,Consumer,Business,location,CA,availability,0
-name,Lace Bravo,language,English,Spanish,Japanese,service,Investment,Consumer,Home Loan,location,CA,availability,0
-name,Larhonda Mcclellan,language,English,Spanish,Russian,service,Consumer,Business,Home Loan,location,TX,availability,0
-name,Fredy Springer,language,English,Portugese,Spanish,service,Investment,Consumer,Business,location,MD,availability,1
-name,Kalan Crocker,language,English,Spanish,Korean,service,Consumer,Home Loan,Business,location,CA,availability,0
-name,Maegan Friedman,language,English,Spanish,Russian,service,Consumer,Business,Investment,location,MA,availability,1
-name,Genaro Linares,language,English,Spanish,Vietnamese,service,Business,Home Loan,Consumer,location,SC,availability,0
-name,Kate Barajas,language,English,Spanish,French,service,Investment,Business,Consumer,location,FL,availability,1
-name,Nichol Proffitt,language,English,Spanish,Tagalog,service,Business,Home Loan,Investment,location,FL,availability,1
-name,Mecca Blalock,language,English,Spanish,Korean,service,Business,Home Loan,Investment,location,FL,availability,0
-name,Clark Dick,language,English,Spanish,Ukranian,service,Home Loan,Investment,Consumer,location,MA,availability,1
-name,Idalia Greiner,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Heather Bowers,language,English,Hindi,German,service,Home Loan,Consumer,Investment,location,AZ,availability,0
-name,Tashawna Jankowski,language,English,Russian,Spanish,service,Home Loan,Consumer,Business,location,NY,availability,1
-name,Donato Otero,language,English,Spanish,Russian,service,Home Loan,Consumer,Business,location,WA,availability,0
-name,Lydell Aldrich,language,English,Spanish,Persian,service,Business,Home Loan,Investment,location,DE,availability,1
-name,Allicia Orourke,language,English,Spanish,French,service,Investment,Business,Home Loan,location,PA,availability,1
-name,Marika Reeve,language,English,Spanish,Chinese,service,Investment,Consumer,Home Loan,location,GA,availability,1
-name,Kelton Thomson,language,English,Arabic,Spanish,service,Business,Consumer,Home Loan,location,CT,availability,0
-name,Joshua Souza,language,English,Spanish,French,service,Investment,Consumer,Business,location,NY,availability,0
-name,Shania Whatley,language,English,Spanish,Chinese,service,Home Loan,Business,Consumer,location,CA,availability,0
-name,Carli Ledford,language,English,Russian,Spanish,service,Investment,Home Loan,Business,location,CA,availability,0
-name,Mina Doran,language,English,German,Spanish,service,Investment,Home Loan,Business,location,TN,availability,0
-name,Kerstin Pettway,language,English,Spanish,Hindi,service,Investment,Business,Consumer,location,WA,availability,0
-name,Devora Short,language,English,Spanish,Russian,service,Consumer,Investment,Business,location,FL,availability,1
-name,Charita Crowder,language,English,Spanish,Chinese,service,Business,Consumer,Home Loan,location,CA,availability,0
-name,Lisette Rosas,language,English,Spanish,Vietnamese,service,Home Loan,Business,Consumer,location,WA,availability,0
-name,Racheal Whitney,language,English,Spanish,Korean,service,Home Loan,Business,Investment,location,OK,availability,0
-name,Javier Wilburn,language,English,Spanish,Italian,service,Home Loan,Investment,Business,location,CA,availability,0
+name,language,service,location,availability
+Akeem Mojica,"English,Spanish,German","Business,Home Loan,Investment",SC,0
+Anel Brownlee,"English,Chinese,Spanish","Consumer,Home Loan,Business",FL,0
+Dominica Mackey,"English,Romanian,Spanish","Consumer,Home Loan,Investment",CA,0
+Shameeka Lieberman,"English,Spanish,Tagalog","Home Loan,Investment,Consumer",FL,1
+Robbi Dortch,"English,Spanish,Hindi","Investment,Consumer,Business",PA,1
+Annamarie Reyna,"English,German,Spanish","Home Loan,Investment,Business",PA,1
+Ambra Briley,"English,Spanish,Arabic","Investment,Home Loan,Business",NC,1
+Daphney Wayne,"English,Arabic,Spanish","Consumer,Business,Home Loan",FL,1
+Lakin Whelan,"English,Spanish,Chinese","Home Loan,Business,Consumer",MA,0
+Cecil Wasson,"English,Hindi,Spanish","Investment,Home Loan,Business",CA,1
+Latrese Rhea,"English,Spanish,German","Business,Consumer,Investment",NY,1
+Daniell Jacques,"English,French,Spanish","Home Loan,Business,Consumer",NC,1
+Marcial Reese,"English,Arabic,Spanish","Business,Consumer,Investment",OR,1
+Dujuan Guillory,"English,Spanish,Chinese","Consumer,Investment,Business",IL,0
+Brad Jennings,"English,Spanish,Tagalog","Business,Consumer,Investment",FL,0
+Gerson Corwin,"English,Spanish,Korean","Home Loan,Business,Consumer",WA,1
+Deirdre Bingham,"English,Spanish,Arabic","Business,Consumer,Investment",DC,1
+Michel Herron,"English,Spanish,Tagalog","Investment,Business,Consumer",WA,1
+Katlyn Harkins,"English,Spanish,Arabic","Home Loan,Investment,Consumer",CA,1
+Ryder Lund,"English,Spanish,Chinese","Business,Investment,Home Loan",NY,1
+Maximillian Rodgers,"English,Spanish,Arabic","Consumer,Home Loan,Investment",WA,1
+Casandra Maggard,"English,Spanish,Korean","Business,Consumer,Home Loan",MD,1
+Kamran Erdmann,"English,Tagalog,Spanish","Investment,Home Loan,Business",CA,1
+Luisa Stock,"English,Spanish,Portugese","Consumer,Home Loan,Business",NC,0
+Nora Heaton,"English,Chinese,Spanish","Consumer,Business,Investment",IL,0
+Blas Kovach,"English,Spanish,Korean","Consumer,Business,Home Loan",CA,1
+Charde Thomas,"English,Spanish,French","Investment,Business,Home Loan",CA,1
+Latonya Lockett,"English,Spanish,Italian","Business,Home Loan,Investment",TX,1
+Norman Humphries,"English,Spanish,German","Consumer,Business,Home Loan",FL,0
+Natassja Dees,"English,Spanish,Chinese","Business,Consumer,Investment",FL,1
+Greer Guillory,"English,Spanish,Russian","Business,Consumer,Home Loan",FL,1
+Sampson Gill,"English,Tagalog,Spanish","Consumer,Investment,Business",FL,0
+Sherena Grogan,"English,Vietnamese,Spanish","Home Loan,Business,Investment",CT,1
+Leopoldo Lang,"English,Spanish,Polish","Home Loan,Investment,Consumer",TX,1
+Shaquana Ackerman,"English,Vietnamese,Spanish","Home Loan,Business,Consumer",CA,1
+Patrina Brandenburg,"English,Arabic,Chinese","Business,Investment,Consumer",MI,1
+Dean Musselman,"English,Spanish,Russian","Home Loan,Business,Consumer",CA,1
+Diona Dick,"English,Spanish,Chinese","Business,Investment,Consumer",CA,0
+Antuan Bernard,"English,Spanish,Tagalog","Business,Consumer,Investment",NJ,1
+Jolynn Friend,"English,Spanish,Portugese","Consumer,Business,Home Loan",TX,1
+Hoyt Barth,"English,Spanish,Chinese","Home Loan,Business,Consumer",NY,0
+Evie Pate,"English,Spanish,Arabic","Consumer,Business,Home Loan",MA,1
+Donisha Earls,"English,Spanish,Portugese","Investment,Business,Consumer",MI,0
+Evelin Lombardo,"English,Spanish,French","Business,Consumer,Home Loan",CA,0
+Tabatha Ginn,"English,Spanish,Ukranian","Investment,Consumer,Business",VA,1
+Shaunte Sutherland,"English,Spanish,Russian","Consumer,Investment,Home Loan",FL,1
+Marlaina Orellana,"English,Spanish,Polish","Home Loan,Business,Consumer",CA,1
+Katrina Short,"English,Spanish,Tagalog","Investment,Consumer,Home Loan",PA,1
+Lashandra Delarosa,"English,Russian,Spanish","Home Loan,Business,Consumer",FL,1
+Aviance Dickinson,"English,Spanish,Chinese","Home Loan,Business,Investment",FL,1
+Miracle Gaskin,"English,Spanish,Portugese","Business,Home Loan,Investment",MA,1
+Qiana Goddard,"English,Spanish,Vietnamese","Home Loan,Business,Consumer",NJ,1
+Corine Villareal,"English,Spanish,Russian","Business,Consumer,Investment",NY,1
+Triston Pinckney,"English,Spanish,Chinese","Consumer,Business,Investment",MD,1
+Arturo Keister,"English,Spanish,German","Consumer,Investment,Home Loan",WA,0
+Kasheena Chacon,"English,Ukranian,Spanish","Consumer,Investment,Business",VA,1
+Kile Razo,"English,Russian,Japanese","Business,Investment,Home Loan",NV,1
+Shiela Gordon,"English,Spanish,German","Home Loan,Investment,Consumer",TX,0
+Shanelle Mccracken,"English,Spanish,Tagalog","Business,Consumer,Home Loan",GA,1
+Jessalyn Hardaway,"English,Spanish,French","Consumer,Investment,Business",FL,1
+Marni Duvall,"English,Spanish,Thai","Consumer,Business,Investment",NJ,0
+Martell Bliss,"English,Vietnamese,Spanish","Consumer,Investment,Business",TX,0
+Kristen Roberts,"English,Spanish,Russian","Consumer,Home Loan,Investment",VA,1
+Kala Welsh,"English,Spanish,Italian","Home Loan,Consumer,Business",MA,1
+Kolt Nowak,"English,Spanish,Vietnamese","Business,Home Loan,Consumer",CA,0
+Cambria Pitre,"English,Spanish,Russian","Investment,Business,Home Loan",NC,1
+Brodie Beach,"English,Spanish,Vietnamese","Investment,Consumer,Home Loan",CA,1
+Ha Tobin,"English,Spanish,Portugese","Home Loan,Business,Investment",MD,1
+Roxie Stanfield,"English,Chinese,Spanish","Business,Consumer,Home Loan",NM,0
+Sully Vance,"English,Spanish,Chinese","Investment,Consumer,Home Loan",FL,0
+Dirk Renner,"English,Tagalog,Spanish","Home Loan,Business,Consumer",FL,1
+Nikolaus Ivory,"English,Spanish,Tagalog","Home Loan,Investment,Business",MA,0
+Johnthan Herrmann,"English,Spanish,Persian","Consumer,Investment,Home Loan",MD,0
+Pamela Najera,"English,Spanish,Tagalog","Investment,Consumer,Home Loan",KS,1
+Brisa Alfaro,"English,Spanish,French","Consumer,Home Loan,Business",NY,1
+Deven Dugan,"English,Spanish,Russian","Home Loan,Consumer,Investment",NY,1
+Martinez Barney,"English,Spanish,Portugese","Business,Home Loan,Consumer",MI,1
+Luann Krebs,"English,Spanish,French","Investment,Business,Consumer",CA,1
+Kamron Gaskins,"English,Spanish,Chinese","Investment,Business,Home Loan",MI,1
+Lucas Easter,"English,Spanish,Chinese","Investment,Business,Home Loan",IL,0
+Magda Sayers,"English,Spanish,Hindi","Home Loan,Consumer,Business",MI,1
+Alica Rush,"English,Spanish,French","Investment,Home Loan,Consumer",AZ,1
+Kirk Lima,"English,Spanish,Chinese","Consumer,Investment,Home Loan",MO,1
+Breann Rutter,"English,Spanish,Chinese","Home Loan,Business,Investment",CA,1
+Libby Muncy,"English,Spanish,Chinese","Business,Home Loan,Consumer",FL,0
+Loni Forsythe,"English,Spanish,Turkish","Business,Home Loan,Consumer",MD,1
+Lashelle Villalobos,"English,Spanish,Chinese","Investment,Business,Consumer",OK,0
+Bobbijo Traylor,"English,Spanish,French","Business,Home Loan,Investment",CA,1
+Denetra Maddox,"English,Hebrew,Hindi","Business,Home Loan,Investment",IL,0
+Vinay Legg,"English,Spanish,French","Business,Investment,Home Loan",NJ,1
+Aleah Rea,"English,Spanish,Italian","Business,Consumer,Home Loan",FL,0
+Latonya Barnhart,"English,French,Vietnamese","Consumer,Home Loan,Business",FL,0
+Ivey Orosco,"English,Spanish,French","Consumer,Investment,Business",AZ,1
+Estelle Rocha,"English,Spanish,Chinese","Business,Investment,Home Loan",NY,0
+Adelina Castellanos,"English,Spanish,French","Business,Investment,Consumer",CA,1
+Porter Vo,"English,Spanish,Tagalog","Investment,Business,Home Loan",GA,1
+Josiah Goff,"English,Spanish,Arabic","Business,Consumer,Investment",GA,1
+Concetta Pritchard,"English,German,Spanish","Home Loan,Investment,Business",FL,0
+Travon Boston,"English,Tagalog,Spanish","Home Loan,Business,Consumer",FL,0
+Emmalee Vergara,"English,Spanish,Korean","Business,Consumer,Investment",OR,0
+Tamira Mccabe,"English,Spanish,Russian","Investment,Consumer,Business",TX,1
+Arick Cordero,"English,Russian,Spanish","Home Loan,Business,Consumer",CA,1
+Raelynn Stout,"English,Spanish,Arabic","Home Loan,Business,Investment",NY,0
+Brandis Givens,"English,Hindi,Spanish","Home Loan,Consumer,Investment",VA,1
+Myisha Duran,"English,Spanish,Arabic","Consumer,Home Loan,Business",TX,0
+Genna Welsh,"English,Ukranian,Spanish","Business,Investment,Consumer",TX,1
+Rosalia Correia,"English,Spanish,Persian","Business,Consumer,Home Loan",CA,1
+Hasan Barrows,"English,Tagalog,Spanish","Home Loan,Consumer,Investment",MA,1
+Aletha Keenan,"English,Russian,Vietnamese","Consumer,Home Loan,Investment",NY,0
+Sam Lake,"English,Spanish,French","Investment,Consumer,Home Loan",MD,1
+Leanne Medrano,"English,Spanish,Tagalog","Business,Investment,Home Loan",OR,1
+Domenic Skidmore,"English,German,Spanish","Consumer,Home Loan,Business",GA,1
+Josiah Fitch,"English,Spanish,Chinese","Home Loan,Consumer,Business",FL,1
+Hattie Godfrey,"English,Spanish,French","Business,Home Loan,Investment",CA,1
+Yusuf Falcon,"English,Turkish,Spanish","Consumer,Business,Home Loan",NM,1
+Adolphus Abel,"English,Spanish,Chinese","Home Loan,Investment,Business",NY,1
+Aura Bayne,"English,Greek,Korean","Investment,Home Loan,Consumer",CA,1
+Christon Whittaker,"English,Japanese,Arabic","Consumer,Business,Investment",AZ,0
+Orlando Purcell,"English,Spanish,Tagalog","Business,Home Loan,Consumer",MA,0
+Madonna Meadows,"English,Vietnamese,Arabic","Home Loan,Consumer,Investment",CA,1
+Katara Jarvis,"English,Spanish,Vietnamese","Business,Consumer,Home Loan",CA,1
+Trae Moriarty,"English,Spanish,Japanese","Business,Investment,Consumer",TX,1
+Delano Long,"English,Spanish,Chinese","Home Loan,Investment,Business",IL,1
+Candance Springer,"English,Korean,Spanish","Home Loan,Investment,Consumer",MI,1
+Denika Mcafee,"English,Arabic,Spanish","Consumer,Investment,Home Loan",AR,0
+Toshia Perdue,"English,Spanish,Tagalog","Business,Consumer,Investment",NY,1
+Demetri Spangler,"English,Spanish,Polish","Business,Home Loan,Consumer",TX,1
+Che Mcmillian,"English,Spanish,Vietnamese","Investment,Business,Consumer",PA,1
+Anneliese Rubin,"English,Spanish,Portugese","Investment,Home Loan,Business",NC,0
+Tyrus Gage,"English,Chinese,Spanish","Home Loan,Consumer,Investment",NJ,1
+Jacobi Chu,"English,Spanish,Ukranian","Home Loan,Investment,Consumer",MI,0
+Shalita Burkett,"English,Arabic,Spanish","Business,Home Loan,Consumer",IL,0
+Viola Lunn,"English,Spanish,Chinese","Home Loan,Investment,Consumer",AZ,1
+Emely Tidwell,"English,Spanish,Arabic","Business,Investment,Home Loan",TX,1
+Mariam Jewell,"English,Spanish,Tagalog","Consumer,Investment,Home Loan",NC,0
+Angella Bacon,"English,Spanish,French","Investment,Consumer,Home Loan",AZ,1
+Jeremi Thompson,"English,Spanish,Portugese","Investment,Home Loan,Business",MA,1
+Meera Hannan,"English,Spanish,Hindi","Home Loan,Business,Investment",TX,1
+Jerica Chu,"English,Spanish,Korean","Home Loan,Consumer,Business",VA,0
+Floyd Swenson,"English,Spanish,Polish","Consumer,Business,Investment",WA,1
+Jeremey Wills,"English,Spanish,Arabic","Home Loan,Investment,Business",CA,0
+Desirea Ng,"English,Spanish,French","Business,Consumer,Investment",MA,1
+Taron Everhart,"English,Tagalog,Spanish","Consumer,Business,Investment",MO,1
+Demetria Haywood,"English,Hindi,Tagalog","Business,Investment,Home Loan",FL,1
+Jenifer Forsyth,"English,Arabic,Spanish","Home Loan,Investment,Consumer",KS,1
+Laura Hanks,"English,Spanish,Korean","Business,Home Loan,Investment",CA,1
+Blaine Blue,"English,Spanish,Italian","Home Loan,Investment,Consumer",NV,1
+Kofi Fine,"English,Spanish,Portugese","Business,Investment,Consumer",OR,1
+Deseree Alley,"English,Tagalog,Spanish","Consumer,Business,Investment",AZ,1
+Tariq Bruton,"English,Spanish,Polish","Home Loan,Investment,Consumer",OR,1
+Queena Kendall,"English,Italian,Spanish","Investment,Home Loan,Consumer",RI,1
+Taryn Seale,"English,Spanish,Chinese","Consumer,Business,Investment",NY,1
+Franchesca Sloan,"English,Spanish,Korean","Investment,Business,Home Loan",CA,1
+Malcolm Nicholson,"English,Spanish,Romanian","Investment,Home Loan,Consumer",FL,1
+Sloane Whittington,"English,Spanish,French","Business,Consumer,Investment",FL,0
+Alesia Barajas,"English,Spanish,Portugese","Consumer,Business,Home Loan",WA,1
+Lamario Goldsmith,"English,French,Spanish","Home Loan,Investment,Business",MI,0
+Jada Rose,"English,Spanish,French","Business,Investment,Home Loan",NJ,1
+Karine Alcala,"English,Korean,German","Home Loan,Investment,Consumer",MA,1
+Javon Warden,"English,Polish,Spanish","Consumer,Business,Investment",FL,0
+Jenette Gruber,"English,Spanish,Korean","Home Loan,Business,Consumer",FL,0
+Hoang Hong,"English,Spanish,German","Home Loan,Business,Investment",IL,0
+Rudy Mock,"English,Spanish,Portugese","Business,Home Loan,Investment",MD,1
+Jade Bergstrom,"English,Spanish,German","Consumer,Investment,Home Loan",FL,1
+Brice Powers,"English,Spanish,Chinese","Business,Investment,Home Loan",PA,0
+Alysia Moon,"English,Spanish,Italian","Home Loan,Consumer,Business",NC,1
+Danesha Burge,"English,Spanish,French","Consumer,Business,Home Loan",MA,1
+Jayla Swartz,"English,Spanish,Japanese","Investment,Business,Consumer",CA,1
+Taneshia Hetrick,"English,French,Chinese","Consumer,Business,Home Loan",FL,0
+Jazzmin Aquino,"English,Spanish,Chinese","Business,Home Loan,Consumer",TX,0
+Shantrell Busby,"English,Spanish,Chinese","Consumer,Business,Home Loan",IL,0
+Jacob Beaudoin,"English,Spanish,Polish","Home Loan,Consumer,Investment",TX,1
+Chandra Rand,"English,Spanish,Italian","Investment,Consumer,Business",SC,1
+Richie Baumgartner,"English,Spanish,Portugese","Investment,Consumer,Home Loan",AZ,1
+Al Leon,"English,Spanish,Tagalog","Investment,Home Loan,Consumer",NY,1
+Sammy Stinson,"English,Spanish,Persian","Investment,Home Loan,Consumer",NJ,1
+Elia Reynolds,"English,Spanish,Tagalog","Investment,Business,Consumer",TX,1
+Jonelle Swenson,"English,Spanish,Chinese","Business,Consumer,Investment",IL,1
+Bret Barlow,"English,Spanish,Arabic","Consumer,Business,Investment",AZ,1
+Jantzen Ireland,"English,Spanish,Hindi","Consumer,Investment,Business",CA,1
+Juliette Cano,"English,Spanish,Hebrew","Home Loan,Consumer,Business",CA,1
+Cassy Phillips,"English,Spanish,Italian","Home Loan,Business,Investment",CT,0
+Marisol Landon,"English,Spanish,Tagalog","Home Loan,Business,Investment",CA,1
+Jensen Howe,"English,Tagalog,Spanish","Investment,Home Loan,Consumer",CA,0
+Bonny Chong,"English,Spanish,Chinese","Business,Home Loan,Investment",CA,1
+Jacob Forsyth,"English,Spanish,French","Home Loan,Business,Consumer",MA,1
+Mark Wolff,"English,Spanish,Tagalog","Home Loan,Consumer,Investment",MD,1
+West Pak,"English,Spanish,French","Consumer,Business,Home Loan",NJ,1
+Garrick Finch,"English,German,Spanish","Business,Investment,Consumer",CT,0
+Amin Weiner,"English,Spanish,Persian","Business,Investment,Home Loan",NY,0
+Beatrice Jennings,"English,Spanish,Chinese","Consumer,Home Loan,Business",CA,1
+Antwaun Hammond,"English,Spanish,Arabic","Consumer,Home Loan,Investment",FL,0
+Helene Hayes,"English,Spanish,French","Home Loan,Consumer,Business",CA,1
+Shekinah Wyatt,"English,Portugese,Japanese","Consumer,Investment,Home Loan",AZ,1
+Marisela Lilley,"English,Spanish,Hindi","Business,Consumer,Home Loan",MA,0
+Codie Covington,"English,Russian,Vietnamese","Consumer,Home Loan,Investment",CA,0
+Mamie Denton,"English,Spanish,French","Investment,Home Loan,Business",FL,0
+Mesha Flood,"English,Spanish,Italian","Business,Home Loan,Consumer",NJ,1
+Johnthan Samuels,"English,Spanish,French","Home Loan,Consumer,Business",NJ,1
+Rayvon Kerns,"English,Spanish,French","Business,Investment,Home Loan",TN,0
+Deena Bisson,"English,Spanish,Vietnamese","Business,Investment,Home Loan",CA,1
+Adelaide Costello,"English,Spanish,Hebrew","Consumer,Business,Home Loan",FL,0
+Katharina Charlton,"English,Spanish,Arabic","Investment,Consumer,Business",NC,1
+Binh Sharkey,"English,German,Portugese","Investment,Home Loan,Consumer",NY,1
+Vicente Maloney,"English,Spanish,Chinese","Investment,Home Loan,Consumer",TN,1
+Jan Scoggins,"English,Korean,Chinese","Investment,Business,Consumer",FL,0
+Nydia Nickerson,"English,Korean,Spanish","Investment,Consumer,Business",CA,0
+Quintin Skelton,"English,Vietnamese,Tagalog","Investment,Business,Home Loan",MA,0
+Selina Mckeever,"English,Tagalog,Spanish","Home Loan,Consumer,Investment",RI,1
+Derron Labbe,"English,Spanish,Korean","Business,Home Loan,Investment",MD,1
+Darren Voss,"English,Spanish,Tagalog","Business,Consumer,Investment",FL,0
+Scot Shepherd,"English,Tagalog,Spanish","Investment,Consumer,Business",MA,1
+Leonela Thiel,"English,Spanish,Tagalog","Investment,Consumer,Business",CT,0
+Janee Helms,"English,Spanish,Polish","Investment,Home Loan,Consumer",OR,1
+Lina Head,"English,Spanish,French","Investment,Business,Home Loan",GA,1
+Ariella Mclendon,"English,Spanish,Arabic","Home Loan,Consumer,Investment",NY,1
+Jaquetta Kirchner,"English,Korean,Spanish","Home Loan,Consumer,Investment",NV,0
+Clyde Milam,"English,Spanish,Tagalog","Business,Investment,Consumer",MD,1
+Lottie Mcleod,"English,Spanish,Chinese","Investment,Business,Consumer",AZ,1
+Jarren Simpkins,"English,Spanish,Chinese","Business,Home Loan,Investment",PA,1
+Myra Chestnut,"English,Spanish,Greek","Home Loan,Investment,Consumer",FL,1
+Margeaux Grubbs,"English,Spanish,Arabic","Consumer,Investment,Business",VA,1
+Joshua Stallings,"English,Portugese,Spanish","Consumer,Home Loan,Investment",CA,0
+Jaymes Schmitt,"English,Spanish,Chinese","Home Loan,Consumer,Business",MA,1
+Cecily Pike,"English,Spanish,Tagalog","Investment,Home Loan,Consumer",NV,1
+Debbie Rhoads,"English,Spanish,Ukranian","Consumer,Investment,Business",TX,1
+Talina Jarman,"English,Tagalog,Spanish","Home Loan,Investment,Business",MI,1
+Raeann Sweet,"English,Spanish,Chinese","Investment,Home Loan,Business",CA,0
+Kristel Meredith,"English,Spanish,Korean","Home Loan,Consumer,Business",CA,1
+Jimmie Stringer,"English,Spanish,Tagalog","Investment,Home Loan,Consumer",MI,1
+Corinna Light,"English,Vietnamese,Spanish","Business,Home Loan,Investment",FL,1
+Blanca Lim,"English,Spanish,Italian","Investment,Home Loan,Consumer",NC,1
+Brandin Griffiths,"English,Spanish,Polish","Consumer,Investment,Home Loan",TX,1
+Quiana Doty,"English,Arabic,Spanish","Business,Consumer,Home Loan",TN,1
+Myron Muncy,"English,Italian,Chinese","Home Loan,Investment,Consumer",FL,1
+Shontay Jobe,"English,Chinese,Spanish","Consumer,Business,Home Loan",TX,0
+Evette Walters,"English,Spanish,Arabic","Business,Investment,Home Loan",MD,0
+Becky Palacios,"English,Spanish,Chinese","Investment,Home Loan,Consumer",NY,1
+Nerissa Mathis,"English,Spanish,Arabic","Business,Home Loan,Consumer",NY,1
+Enrique Bromley,"English,Spanish,Chinese","Consumer,Home Loan,Business",MO,1
+Noor Blackburn,"English,German,Spanish","Home Loan,Investment,Consumer",VA,0
+Christie Newell,"English,Japanese,Spanish","Home Loan,Investment,Business",CA,1
+Jeanpaul Rossi,"English,Spanish,Japanese","Consumer,Home Loan,Investment",NY,1
+Shakara Teague,"English,Spanish,Tagalog","Consumer,Investment,Business",AR,0
+Antjuan Connolly,"English,Spanish,French","Investment,Home Loan,Consumer",OR,1
+Denis Card,"English,Spanish,French","Home Loan,Business,Consumer",AZ,0
+Milo Jameson,"English,Spanish,Tagalog","Consumer,Home Loan,Investment",IL,0
+Eva Wooldridge,"English,Spanish,Tagalog","Home Loan,Investment,Consumer",CA,1
+Denisse Jamison,"English,Korean,Portugese","Home Loan,Investment,Business",CT,1
+Shandy Haller,"English,Spanish,Arabic","Home Loan,Business,Investment",CA,1
+Lashandra Ritter,"English,Spanish,Hindi","Investment,Home Loan,Consumer",FL,1
+Tremaine Salyer,"English,Spanish,Chinese","Business,Home Loan,Consumer",TX,0
+Tremaine Knapp,"English,Turkish,Vietnamese","Business,Consumer,Investment",VA,1
+Corissa Kaplan,"English,Chinese,Arabic","Business,Investment,Consumer",VA,1
+Dixie Legg,"English,Spanish,Portugese","Home Loan,Business,Consumer",FL,1
+Donell Burnham,"English,Spanish,French","Home Loan,Business,Investment",TX,0
+Carrie Bourne,"English,Spanish,Portugese","Investment,Business,Home Loan",NY,1
+Christiana Samson,"English,French,Spanish","Business,Investment,Consumer",WA,1
+Randa Rosen,"English,Spanish,Tagalog","Investment,Home Loan,Business",MD,0
+Hillery Valenti,"English,Spanish,French","Consumer,Investment,Business",NC,1
+Jory Delgado,"English,Spanish,French","Home Loan,Investment,Business",CA,1
+Mila Mead,"English,Spanish,Vietnamese","Business,Home Loan,Investment",MO,1
+Johnie Mueller,"English,Spanish,Hindi","Home Loan,Consumer,Business",NC,1
+Britta Julian,"English,Spanish,Tagalog","Business,Home Loan,Investment",FL,1
+Kandi Escamilla,"English,Italian,Spanish","Home Loan,Investment,Business",MI,1
+Karianne Havens,"English,Spanish,French","Consumer,Home Loan,Business",MA,1
+Arnold Carr,"English,Spanish,German","Business,Investment,Home Loan",NY,0
+Crystal Wilkerson,"English,Chinese,Spanish","Home Loan,Consumer,Business",CA,1
+Katisha Beal,"English,German,Spanish","Consumer,Investment,Home Loan",WA,1
+Tamisha Shelly,"English,Spanish,Chinese","Consumer,Business,Home Loan",CA,1
+Raheem Sisson,"English,Spanish,Portugese","Business,Investment,Home Loan",FL,1
+Mallary Alarcon,"English,Spanish,Tagalog","Home Loan,Consumer,Business",RI,0
+Reginald Sherry,"English,Spanish,Tagalog","Business,Consumer,Home Loan",WA,0
+Kathleen Silver,"English,Russian,Polish","Consumer,Investment,Home Loan",FL,0
+Kathryne Bowlin,"English,Spanish,Chinese","Home Loan,Business,Consumer",TX,1
+Rueben Medlin,"English,German,Spanish","Business,Home Loan,Investment",FL,1
+Chantay Russell,"English,Spanish,Chinese","Investment,Home Loan,Consumer",CA,0
+Cierra Ingle,"English,Spanish,German","Home Loan,Investment,Business",NY,1
+Jillian Cohn,"English,Spanish,Chinese","Home Loan,Investment,Consumer",NJ,0
+Sybil Numbers,"English,Spanish,German","Investment,Business,Consumer",AZ,0
+Jaqueline Neil,"English,Chinese,Spanish","Investment,Home Loan,Consumer",CA,1
+Maribel Lowry,"English,Arabic,Italian","Business,Investment,Consumer",MA,1
+Marquell Guffey,"English,Spanish,Chinese","Consumer,Business,Home Loan",FL,1
+Richmond Chamberlain,"English,Spanish,Vietnamese","Home Loan,Consumer,Investment",NC,1
+Liam Brinkley,"English,Chinese,Romanian","Consumer,Investment,Home Loan",FL,1
+Angelita Petty,"English,Spanish,Vietnamese","Home Loan,Consumer,Investment",IL,0
+Shontel Fellows,"English,Spanish,Korean","Home Loan,Investment,Business",TX,0
+Teri Leyva,"English,Spanish,Korean","Investment,Business,Home Loan",NJ,1
+Amirah Smalley,"English,Spanish,Hebrew","Investment,Consumer,Home Loan",VA,0
+Sheneka Robbins,"English,Spanish,Tagalog","Consumer,Business,Investment",CA,1
+Libby Keys,"English,Spanish,Chinese","Consumer,Investment,Business",FL,1
+Anny Keister,"English,Spanish,Hindi","Home Loan,Investment,Business",MA,1
+Kathryn Cordell,"English,Spanish,Vietnamese","Home Loan,Consumer,Business",TN,0
+Temika Hedrick,"English,Spanish,Russian","Home Loan,Consumer,Business",FL,0
+Brittainy Carrier,"English,Spanish,Tagalog","Home Loan,Investment,Consumer",NJ,1
+Mindy Caballero,"English,Spanish,Russian","Business,Investment,Home Loan",FL,0
+Derrell Beaver,"English,Spanish,German","Business,Home Loan,Investment",GA,0
+Sione Kunz,"English,Hindi,German","Home Loan,Investment,Business",IL,1
+Dustan Rector,"English,Spanish,French","Investment,Business,Consumer",FL,1
+Rosalie Templeton,"English,Spanish,Vietnamese","Business,Consumer,Home Loan",FL,1
+Carly Burr,"English,Tagalog,Spanish","Consumer,Business,Home Loan",MD,0
+Alexander Grooms,"English,Spanish,Vietnamese","Consumer,Business,Investment",MA,1
+Bobbijo Guevara,"English,Spanish,Portugese","Home Loan,Investment,Business",CA,0
+Brandice Melton,"English,Spanish,Arabic","Investment,Home Loan,Business",GA,1
+Shaun Hatch,"English,Spanish,Korean","Investment,Business,Consumer",NJ,0
+Tashia Hurd,"English,Spanish,Chinese","Home Loan,Business,Consumer",FL,0
+Kassy Roller,"English,Spanish,German","Business,Investment,Consumer",CA,0
+Tammy Purcell,"English,Spanish,Korean","Home Loan,Investment,Consumer",CA,0
+Loriann Gaston,"English,Spanish,German","Business,Consumer,Investment",NJ,1
+William Purnell,"English,Chinese,Hindi","Home Loan,Consumer,Investment",TX,0
+Daniele Holley,"English,Spanish,Hindi","Investment,Consumer,Business",FL,0
+Cornell Nicholson,"English,Spanish,German","Investment,Business,Consumer",TX,0
+Floyd Helms,"English,Spanish,Portugese","Business,Home Loan,Investment",NJ,1
+Sheri Maxwell,"English,Spanish,Ukranian","Business,Consumer,Home Loan",CA,1
+Nycole Baum,"English,Spanish,Ukranian","Investment,Business,Home Loan",CA,1
+Jawaan Vann,"English,Hebrew,Spanish","Investment,Consumer,Home Loan",NC,1
+Mauro Song,"English,Spanish,Persian","Business,Consumer,Investment",GA,1
+Jolie Morris,"English,Spanish,Korean","Business,Consumer,Home Loan",TX,0
+Shila Karr,"English,Spanish,French","Home Loan,Consumer,Business",WA,1
+Jerred Rosenthal,"English,Spanish,Italian","Business,Consumer,Home Loan",MO,0
+Nathaniel Slattery,"English,Spanish,Korean","Consumer,Business,Investment",IL,0
+Lloyd Mcgehee,"English,Spanish,Korean","Home Loan,Consumer,Business",NC,0
+Deonna Gabbard,"English,Chinese,Spanish","Home Loan,Investment,Consumer",SC,0
+Jase Cho,"English,Spanish,Korean","Business,Home Loan,Investment",GA,0
+Charisse Casper,"English,Hebrew,Spanish","Consumer,Business,Investment",NJ,1
+Ivey Dahl,"English,Spanish,Persian","Home Loan,Investment,Consumer",CT,0
+Eboni Doe,"English,Spanish,Chinese","Consumer,Business,Investment",CA,0
+Allisa Cornejo,"English,Spanish,Arabic","Investment,Home Loan,Consumer",VA,1
+Delila Conti,"English,Spanish,Tagalog","Business,Investment,Home Loan",WA,1
+Mindi Fortenberry,"English,Greek,Spanish","Consumer,Business,Investment",VA,1
+Irvin Schaeffer,"English,Spanish,Chinese","Business,Investment,Consumer",NV,1
+Lucy Boyer,"English,Portugese,Spanish","Business,Home Loan,Investment",CA,1
+Tina Finley,"English,Spanish,Tagalog","Home Loan,Business,Investment",MO,0
+Lucia Shannon,"English,Spanish,Portugese","Business,Home Loan,Consumer",MI,0
+Alysia Dockery,"English,Spanish,Chinese","Consumer,Home Loan,Business",CA,1
+Jesica Gregg,"English,Spanish,Chinese","Consumer,Home Loan,Business",MO,0
+Kathi Crews,"English,Russian,Persian","Home Loan,Consumer,Business",FL,0
+Lacrecia Krebs,"English,Korean,Spanish","Home Loan,Consumer,Investment",MD,0
+Ryon Sneed,"English,Spanish,Hindi","Consumer,Business,Investment",NY,1
+Feliciano Michel,"English,Spanish,Italian","Business,Consumer,Home Loan",VA,0
+Brynna Mancuso,"English,Spanish,Romanian","Home Loan,Investment,Business",MO,1
+Tom Royer,"English,Spanish,Tagalog","Home Loan,Consumer,Business",CT,1
+Lynsey Rau,"English,Chinese,Hindi","Consumer,Business,Home Loan",NH,1
+Marcial Cobb,"English,Italian,Spanish","Business,Investment,Consumer",CT,1
+Elysia Abreu,"English,Spanish,Russian","Home Loan,Consumer,Business",DC,0
+Ivana John,"English,Vietnamese,Chinese","Home Loan,Investment,Business",AZ,1
+Efrem Finch,"English,Chinese,Spanish","Consumer,Home Loan,Business",CA,1
+Bonnie Fair,"English,Spanish,Chinese","Home Loan,Investment,Business",FL,1
+Rocky Michael,"English,Arabic,Spanish","Home Loan,Business,Investment",GA,1
+Lisandra Kish,"English,Turkish,Hindi","Consumer,Business,Investment",AZ,0
+Alexi Villa,"English,Spanish,Korean","Home Loan,Consumer,Business",CA,1
+Athanasios Spear,"English,Spanish,Japanese","Home Loan,Consumer,Business",NY,1
+Amrita Bishop,"English,Spanish,Russian","Investment,Business,Consumer",TX,1
+Gretchen Martens,"English,Vietnamese,Spanish","Business,Investment,Consumer",CA,1
+Tawnee Lassiter,"English,Spanish,Hindi","Investment,Business,Consumer",NY,1
+Prince Bull,"English,Spanish,Russian","Investment,Consumer,Home Loan",CA,1
+Zachery Freeman,"English,Spanish,Russian","Consumer,Business,Investment",MO,0
+Elesha Vangshea,"English,Tagalog,Spanish","Business,Consumer,Investment",NY,1
+Gage Ferris,"English,Spanish,Arabic","Consumer,Home Loan,Investment",AZ,1
+Hiram Heard,"English,Spanish,Arabic","Consumer,Home Loan,Investment",SC,1
+Greta Barnard,"English,Chinese,Spanish","Home Loan,Investment,Business",NH,1
+Carmella Vo,"English,Spanish,Vietnamese","Business,Home Loan,Investment",CA,0
+Nida Davison,"English,Spanish,Tagalog","Investment,Business,Home Loan",FL,1
+Denika Carrasco,"English,Spanish,Arabic","Investment,Consumer,Business",AZ,1
+Larae Goins,"English,Spanish,Portugese","Business,Home Loan,Consumer",DC,1
+Cheng Escobedo,"English,Spanish,German","Consumer,Business,Investment",AZ,1
+Christan Hogue,"English,Japanese,Italian","Home Loan,Business,Investment",CA,1
+Broc Mcfarland,"English,Arabic,Spanish","Consumer,Home Loan,Investment",GA,1
+Immanuel Ruff,"English,Spanish,German","Home Loan,Consumer,Business",TX,0
+Kirby Hamilton,"English,Spanish,Hindi","Business,Investment,Consumer",MN,0
+Mandy Costello,"English,Spanish,Chinese","Home Loan,Business,Consumer",CA,1
+Aurelio Thorn,"English,Spanish,Hindi","Business,Home Loan,Investment",NY,1
+Alta Navarrete,"English,Spanish,Italian","Business,Consumer,Investment",TX,1
+Kelsey Leone,"English,Spanish,Japanese","Business,Home Loan,Consumer",CA,1
+Risa Jimenez,"English,Spanish,Chinese","Consumer,Investment,Home Loan",NJ,0
+Daneille Somerville,"English,Spanish,Russian","Business,Home Loan,Consumer",CA,1
+Shonta Schoonover,"English,Spanish,Tagalog","Home Loan,Consumer,Investment",CA,1
+Lloyd Turman,"English,Spanish,Hindi","Investment,Consumer,Home Loan",NJ,1
+Sione Melton,"English,Spanish,Tagalog","Business,Consumer,Investment",AR,0
+Ahmad Greenwood,"English,Spanish,Chinese","Investment,Business,Consumer",SC,1
+Alec Kowalski,"English,Spanish,Chinese","Investment,Consumer,Business",MA,1
+Danyale Landon,"English,Spanish,Polish","Investment,Business,Home Loan",CA,1
+Shamel Ellis,"English,Vietnamese,Spanish","Consumer,Investment,Home Loan",NC,0
+Marcel Chappell,"English,Spanish,Tagalog","Investment,Business,Consumer",MO,0
+Juliana Zaragoza,"English,Spanish,Korean","Investment,Home Loan,Consumer",NV,1
+Shanise Diamond,"English,Spanish,Portugese","Consumer,Business,Home Loan",CO,0
+Martin Thorton,"English,Spanish,Chinese","Home Loan,Consumer,Investment",TX,1
+Royal Jobe,"English,Spanish,German","Business,Home Loan,Investment",FL,1
+Tiffay Geiger,"English,Spanish,Tagalog","Consumer,Investment,Home Loan",MO,0
+Rasheeda Hickey,"English,Spanish,French","Business,Home Loan,Consumer",NJ,1
+Kendale Huang,"English,Spanish,Vietnamese","Business,Investment,Home Loan",GA,1
+Octavia Huerta,"English,German,Spanish","Consumer,Business,Investment",IL,1
+Aminah Ortega,"English,Spanish,Russian","Business,Home Loan,Consumer",NV,1
+Nelly Tucker,"English,Spanish,Thai","Business,Investment,Home Loan",PA,1
+Mohamad Ybarra,"English,Spanish,French","Business,Consumer,Investment",CA,1
+Jerrett Otto,"English,Spanish,Japanese","Consumer,Business,Home Loan",FL,0
+Krystyn Sigler,"English,Vietnamese,French","Consumer,Investment,Home Loan",FL,0
+Mallary Crowell,"English,Spanish,Japanese","Home Loan,Consumer,Business",FL,1
+Tommi Bradbury,"English,Spanish,Chinese","Home Loan,Business,Consumer",CA,1
+Gil Padgett,"English,Spanish,German","Home Loan,Consumer,Business",PA,1
+Norberto Hartley,"English,Spanish,Italian","Consumer,Home Loan,Business",CA,0
+Antionette Villarreal,"English,Spanish,Hebrew","Home Loan,Business,Investment",FL,1
+Devaughn Hines,"English,Spanish,Russian","Home Loan,Consumer,Business",MI,0
+Elan Pettway,"English,Spanish,Hindi","Business,Home Loan,Consumer",CA,0
+Anselmo Harness,"English,Romanian,Spanish","Business,Consumer,Home Loan",NJ,0
+Burton Montano,"English,Chinese,Spanish","Investment,Business,Home Loan",WA,1
+Maria Renfro,"English,Spanish,Korean","Investment,Consumer,Home Loan",FL,1
+Tiffiney Reiss,"English,Spanish,Tagalog","Consumer,Home Loan,Investment",TX,1
+Tenisha Thacker,"English,Spanish,Russian","Home Loan,Business,Consumer",CA,0
+Alan Borden,"English,Spanish,Chinese","Investment,Home Loan,Consumer",CA,1
+Charisma Knowles,"English,Tagalog,Spanish","Home Loan,Investment,Consumer",VA,1
+Marlin Crowley,"English,Tagalog,Spanish","Home Loan,Consumer,Business",NY,0
+Jerod Saldana,"English,Spanish,Chinese","Consumer,Business,Home Loan",TX,0
+Alonza Back,"English,Spanish,Thai","Investment,Business,Consumer",CA,1
+Lyndon Walling,"English,Spanish,Tagalog","Business,Investment,Home Loan",MI,1
+Alain North,"English,Spanish,French","Business,Investment,Home Loan",NY,1
+Jorel Thomsen,"English,Portugese,Spanish","Consumer,Business,Investment",WA,0
+Elspeth Benner,"English,Spanish,Hindi","Business,Investment,Home Loan",AZ,0
+Keturah Geary,"English,Spanish,German","Consumer,Home Loan,Business",NV,1
+Ankur Pickering,"English,Spanish,Hebrew","Business,Investment,Consumer",GA,1
+Kalynn Moody,"English,Portugese,Spanish","Home Loan,Investment,Consumer",NY,1
+Charis Partridge,"English,Hindi,Spanish","Business,Consumer,Home Loan",AZ,1
+Cally Sledge,"English,Spanish,Chinese","Investment,Business,Home Loan",AZ,1
+Harriet Beach,"English,Spanish,Ukranian","Business,Home Loan,Consumer",FL,0
+Jered Dew,"English,Vietnamese,Spanish","Home Loan,Business,Investment",TX,0
+Krysti Avalos,"English,Spanish,French","Business,Investment,Home Loan",NY,1
+Gray Cheung,"English,Spanish,Vietnamese","Home Loan,Investment,Consumer",TN,0
+Alaina Musgrove,"English,Spanish,Turkish","Investment,Business,Consumer",TX,0
+Arnaldo Hatchett,"English,Spanish,German","Investment,Home Loan,Business",UT,1
+Hilda Eller,"English,Spanish,French","Consumer,Investment,Business",CA,0
+Riccardo Seymour,"English,Spanish,Chinese","Business,Consumer,Home Loan",NJ,0
+Cristina Jamieson,"English,Vietnamese,Hindi","Consumer,Business,Investment",CA,0
+Karlos Swearingen,"English,Spanish,German","Consumer,Investment,Business",PA,0
+Lavinia Ferrari,"English,Persian,Spanish","Investment,Home Loan,Business",TX,1
+Reanna Fannin,"English,Spanish,Vietnamese","Home Loan,Business,Investment",MD,1
+Winfred High,"English,Spanish,Tagalog","Investment,Business,Home Loan",TN,0
+Nathalie Chesser,"English,Portugese,Arabic","Investment,Business,Home Loan",SC,1
+Penny Bilodeau,"English,Italian,Spanish","Consumer,Investment,Business",NY,1
+Dedra Foley,"English,Spanish,Arabic","Investment,Home Loan,Consumer",AZ,1
+Walter Smallwood,"English,Chinese,Spanish","Home Loan,Consumer,Business",CA,1
+Augustine Larue,"English,Spanish,Chinese","Investment,Consumer,Home Loan",SC,0
+Valente Rector,"English,Spanish,Greek","Home Loan,Business,Consumer",CT,1
+Julio Chamberlin,"English,Spanish,Korean","Investment,Home Loan,Business",MI,0
+Johnny Flanigan,"English,French,Spanish","Consumer,Investment,Home Loan",MA,1
+Diamond Holman,"English,Spanish,Korean","Business,Investment,Consumer",CA,1
+Zainab Cornwell,"English,Arabic,Chinese","Home Loan,Consumer,Investment",CA,1
+Demetrious Benedict,"English,Tagalog,Hindi","Investment,Consumer,Business",NJ,1
+Brie Mccarthy,"English,Spanish,Greek","Investment,Consumer,Home Loan",VA,1
+Baruch Brand,"English,Russian,Spanish","Business,Consumer,Home Loan",FL,0
+Joseph Yoon,"English,Spanish,Italian","Investment,Business,Consumer",VA,1
+Tom Dobbs,"English,Spanish,French","Consumer,Home Loan,Business",VA,1
+Victor Whitmore,"English,Chinese,German","Home Loan,Business,Consumer",CA,0
+Meghann Laird,"English,French,Chinese","Investment,Home Loan,Business",CA,1
+Dusti Jacks,"English,Vietnamese,Spanish","Business,Consumer,Investment",CA,0
+Alyssia Nickel,"English,Spanish,German","Home Loan,Business,Consumer",CA,1
+Courtenay Redd,"English,Tagalog,French","Home Loan,Consumer,Business",FL,0
+Spencer Zapata,"English,Spanish,Polish","Home Loan,Investment,Consumer",FL,0
+Linnea Holly,"English,Spanish,Chinese","Home Loan,Business,Consumer",GA,1
+Anya Bland,"English,Spanish,Thai","Home Loan,Consumer,Investment",CA,1
+Alec Reinhardt,"English,Spanish,Hebrew","Consumer,Investment,Home Loan",CA,1
+Kenna Spruill,"English,Hindi,Spanish","Investment,Business,Consumer",FL,0
+Latesha Courtney,"English,Spanish,Portugese","Consumer,Investment,Business",TX,1
+Breeanna Winslow,"English,Spanish,Greek","Investment,Consumer,Home Loan",AZ,0
+Lynae Jack,"English,Spanish,German","Investment,Business,Home Loan",CA,0
+Davy Cooksey,"English,Spanish,Polish","Business,Consumer,Home Loan",AZ,1
+Julienne Dolan,"English,Spanish,Japanese","Investment,Consumer,Home Loan",CA,1
+Nickole Turpin,"English,Spanish,Japanese","Business,Home Loan,Consumer",MI,1
+Ashly Huff,"English,Spanish,Portugese","Investment,Consumer,Business",VA,1
+Deandra Wadsworth,"English,Spanish,Russian","Home Loan,Consumer,Investment",OK,0
+Karlie Leary,"English,Spanish,Vietnamese","Consumer,Investment,Home Loan",FL,0
+Kaydee Welker,"English,Spanish,Chinese","Consumer,Investment,Business",CA,1
+Chasity Hillman,"English,Vietnamese,Spanish","Consumer,Home Loan,Investment",FL,1
+Malcom Dube,"English,Spanish,Arabic","Investment,Business,Home Loan",IL,1
+Ethan Deleon,"English,Spanish,Korean","Consumer,Home Loan,Investment",CA,1
+Brandt Gault,"English,Romanian,Tagalog","Home Loan,Consumer,Business",CA,1
+Venessa Keck,"English,Spanish,German","Consumer,Business,Home Loan",NY,1
+Daphne Hardee,"English,Spanish,Japanese","Investment,Business,Consumer",FL,0
+Ashlie Ma,"English,Spanish,Russian","Business,Home Loan,Consumer",NJ,1
+Kianna Mckeever,"English,Spanish,French","Consumer,Home Loan,Business",PA,1
+Russ Meade,"English,Polish,Spanish","Investment,Home Loan,Business",NJ,0
+Blaise Tijerina,"English,Spanish,Chinese","Home Loan,Consumer,Investment",CA,1
+Irwin Havens,"English,Tagalog,Spanish","Investment,Business,Home Loan",OK,0
+Tammara Stansberry,"English,Spanish,Vietnamese","Business,Consumer,Investment",FL,1
+Kenrick Whiteside,"English,Spanish,French","Consumer,Investment,Business",TX,1
+Shaina Dunne,"English,Spanish,Chinese","Consumer,Investment,Home Loan",NC,0
+Jo Pope,"English,Spanish,Arabic","Consumer,Business,Home Loan",CA,0
+Calli Lange,"English,Spanish,Tagalog","Investment,Business,Consumer",NC,0
+Shaunta Branch,"English,Spanish,Arabic","Business,Home Loan,Consumer",PA,0
+Ada Harder,"English,Spanish,Portugese","Home Loan,Consumer,Investment",CT,1
+Darleen Brandon,"English,Spanish,Greek","Consumer,Business,Home Loan",MI,0
+Cole Capps,"English,Spanish,Chinese","Home Loan,Business,Consumer",GA,1
+Lonnie Bays,"English,Spanish,French","Business,Home Loan,Investment",CA,1
+Austin Corwin,"English,Spanish,Italian","Business,Investment,Home Loan",IL,0
+Drue Haag,"English,Spanish,Korean","Home Loan,Business,Investment",AZ,1
+Braulio Sage,"English,Italian,Korean","Investment,Consumer,Business",WA,1
+Siri Mattison,"English,Spanish,Portugese","Home Loan,Consumer,Investment",NY,0
+Tawnya Piper,"English,Spanish,Tagalog","Investment,Consumer,Business",CA,1
+Bambi Garay,"English,Spanish,Polish","Home Loan,Consumer,Investment",CA,0
+Dusti Ritchie,"English,Spanish,Hindi","Consumer,Investment,Home Loan",NM,1
+Yancey Johnson,"English,Spanish,Portugese","Investment,Business,Home Loan",NY,1
