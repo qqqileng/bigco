@@ -1,0 +1,52 @@
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="description" content="" />
+    <meta property="og:image" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link href="{{url_for('static', filename='styles.css')}}" media="all" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+  </head>
+
+<body>
+	{% extends "bootstrap/base.html" %}
+	{% import "bootstrap/wtf.html" as wtf%}
+	{% block content %}
+    <h2 ALIGN=CENTER style="color:#328adb; margin-top: 150px; margin-left:-25px;">
+    Welcome, Steve!
+    </h2>
+
+    <div class="direction">
+        Please specify your current location and preferred language.
+    </div>
+
+    <div ALIGN=CENTER class="locationset">
+        Use my current location
+    </div>
+
+    <!--<div class="languageset">
+        ENGLISH
+    </div>-->
+
+    <!--<div class="dropdown" >-->
+    
+    <form method="POST" role="form">
+	<div class="languageset"><div ALIGN=CENTER class="form-group">{{ form.language }}</div></div>
+	<div ALIGN=CENTER><button type="Submit" class="btn btn-primary">SUBMIT</button></div>
+    </form>   
+    
+    <!--</div>-->
+     <script>
+      $(".languageset").click(function(){
+          $(".dropdown").toggleClass("dropview");
+      });
+      </script>
+
+
+    <!--<a href="preferences.html">NEXT</a>-->
+	{% endblock %}
+</body>
+
+</html>

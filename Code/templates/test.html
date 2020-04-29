@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <h2>Your Tellers</h2>
+  <h4> Account: ************1945</h4>
+
+  <div class="w3-bar-block">
+  
+  <!--<form method="POST">-->
+
+  <button name="one" value='one' onclick="window.location.href='{{ url_for( 'index' ) }}';" class="w3-bar-item w3-button w3-black" style="width:100%">
+  <div class="w3-card-4" style="width:100%;">
+    <header class="w3-container w3-blue">
+      <h1>{{ teller_1_name }}</h1>
+    </header>
+
+    <div class="w3-container">
+      <p>Languages Spoken: {{ teller_1_lang }}</p>
+      <p>Services: {{ teller_1_serv }}</p>
+	<p>Location: {{ teller_1_loc }}</p>
+    </div>
+   
+  </div>
+
+  </button>
+
+  <!--</form>
+
+  <form method = "POST">-->
+
+  <button name="two" onclick="window.location.href='{{ url_for( 'index' ) }}';" class="w3-bar-item w3-button w3-teal" style="width:100%">
+    <div class="w3-card-4" style="width:100%;">
+    <header class="w3-container w3-blue">
+      <h1>{{ teller_2_name }}</h1>
+    </header>
+
+    <div class="w3-container">
+      <p>Languages Spoken: {{ teller_2_lang }}</p>
+      <p>Services: {{ teller_2_serv }}</p>
+	<p>Location: {{ teller_2_loc }}</p>
+    </div>
+   
+  </div>
+
+  </button>
+
+  <!--</form>
+
+  <form method = "POST">-->
+
+  <button name="three" onclick="window.location.href='{{ url_for( 'index' ) }}';" class="w3-bar-item w3-button w3-red" style="width:100%"> 
+    <div class="w3-card-4" style="width:100%;">
+    <header class="w3-container w3-blue">
+      <h1>{{ teller_3_name }}</h1>
+    </header>
+
+    <div class="w3-container">
+      <p>Languages Spoken: {{ teller_3_lang }}</p>
+	<p>Services: {{ teller_3_serv }}</p>
+	<p>Location: {{ teller_3_loc }}</p>
+    </div>
+   
+  </div>
+
+  </button>
+
+  <!--</form>-->
+
+  </div>
+
+
+</div>
+
+</body>
+</html>

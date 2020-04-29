@@ -1,0 +1,44 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="" />
+    <meta property="og:image" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link href="styles.css" media="all" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+  </head>
+
+<script>
+    window.onload = function(){
+    var hou = 0;
+    var sec = 5;
+    setInterval(function(){
+    var a = new Date();
+        document.getElementById("timer").innerHTML = hou +" : " + sec ;
+        sec--;
+        if(sec == 00)
+        {
+            hou--;
+            sec = 60;
+            if (hou == 0)
+            {
+                hou = 2;
+            }
+        }
+        },1000);
+}
+{
+    
+}
+    
+</script>
+
+    <div class="direction" style="margin-top:180px;">
+        Matching you <br>with a teller...
+     </div>
+
+<div class="loading" ALIGN=CENTER>
+    Estimated time: <p><span id="timer" style="font-size:2.5em;">01:00<span></p>
+</div>
+
+<a href="profile.html"><div class="invisible"></div></a>

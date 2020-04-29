@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="" />
+    <meta property="og:image" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link href="styles.css" media="all" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+  </head>
+
+<body>
+
+    <h2 ALIGN=CENTER style="color:#328adb; margin-top: 150px; margin-left:-25px;">
+    Welcome, John!
+    </h2>
+
+    <div class="direction">
+        Please specify your current location and preferred language.
+    </div>
+
+    <div class="locationset">
+        Use my current location
+    </div>
+
+    <div class="languageset">
+        ENGLISH
+    </div>
+
+    <div class="dropdown" >
+      <div class="dropsect">English</div>
+      <div class="dropsect">French</div>
+      <div class="dropsect">Spanish</div>
+      <div class="dropsect">Mandarin</div>
+      <div class="dropsect">Korean</div>
+    </div>
+
+    <script>
+      $(".languageset").click(function(){
+          $(".dropdown").toggleClass("dropview");
+      });
+      </script>
+
+    <a href="preferences.html"><div class="sk2" style="padding-top:5px;">NEXT</div></a>
+
+</body>
+
+</html>
