@@ -6,6 +6,7 @@ from flask_wtf import FlaskForm
 from wtforms import SelectField
 from flask_bootstrap import Bootstrap
 
+
 from matching_algorithm import *
 import smtplib
 
@@ -19,9 +20,10 @@ tellers = {}
 
 class Form(FlaskForm):
     language = SelectField('languages', choices = ['English','Spanish','Chinese', 'Tagalog', 'Vietnamese', 'French', 'Korean', 'German', 'Arabic', 'Russian', 'Italian', 'Portugese', 'Hindi', 'Polish', 'Japanese', 'Persian', 'Greek', 'Hebrew', 'Romanian', 'Thai', 'Ukranian', 'Turkish'])
-    service = SelectField('services', choices = ['Card', 'Deposit', 'Transfer', 'Mortgage', 'Savings', 'Pay', 'Invest', 'Account', 'Loan'])
+    service = SelectField('services', choices = ['Consumer Checking and Savings','Auto Loans','Credit Cards','Rewards','Retirement Planning','IRAs and 401(k)s','General Investing','College Planning','Mortgage Financing','Refinancing Home','Home Equity','Business Checking and Savings','Lending','Payroll','Merchant','Financing'])
+                          #['Card', 'Deposit', 'Transfer', 'Mortgage', 'Savings', 'Pay', 'Invest', 'Account', 'Loan'])
 
- 
+
 @app.route('/success/<name>', methods = ['POST', 'GET']) 
 def success(name):
     name = d['language']
@@ -29,7 +31,7 @@ def success(name):
 
     tellers = {}
 
-    tellers = run_algo('John Smith', d['language'], d['service'], 'US')
+    tellers = run_algo('John Smith', d['language'], d['service'], 'NY')
 
 
     sent_from = gmail_user
@@ -92,7 +94,9 @@ def prefer(name2):
     form=Form()
     if request.method == 'POST':
         d['service'] = form.service.data
-        return redirect(url_for('success', name = form.service.data))
+        d['service'] = request.form['services']
+        print(d['service'])
+        return redirect(url_for('success', name = request.form['services']))
 
     return render_template('prefer.html', form=form)
 

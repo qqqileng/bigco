@@ -75,6 +75,23 @@ def run_algo(name, lang, serv, loc):
       'service': [serv],
       'location': loc}}
 
+    query_map = {'Consumer Checking and Savings':'Consumer','Auto Loans':'Consumer',\
+       'Credit Cards':'Consumer','Rewards':'Consumer',\
+       'Retirement Planning':'Investment','IRAs and 401(k)s':'Investment',\
+       'General Investing':'Investment','College Planning':'Investment',\
+       'Mortgage Financing':'Home Loan','Refinancing Home':'Home Loan',\
+       'Home Equity':'Home Loan',\
+       'Business Checking and Savings':'Business','Lending':'Business',\
+       'Payroll':'Business','Merchant':'Business','Financing':'Business'}       
+    # map the services into categories
+    for name,value in query.items():
+        #print(value)
+        result = value.pop("service") 
+        res = []
+        for ser in result:
+            res.append(query_map[ser])
+        value['service'] = res
+    
     threshold = 0.5
     query_result = dict()
     for key,value in query.items(): 
