@@ -14,15 +14,15 @@
 	{% extends "bootstrap/base.html" %}
 	{% import "bootstrap/wtf.html" as wtf%}
 	{% block content %}
-    <h2 ALIGN=CENTER style="color:#328adb; margin-top: 150px; margin-left:-25px;">
+    <h2 ALIGN=CENTER style="color:#328adb; margin-top: 150px; margin-left:-10px;">
     Welcome, Steve!
     </h2>
 
-    <div class="direction">
+    <div class="direction" style="margin-left:20vw;">
         Please specify your current location and preferred language.
     </div>
 
-    <div ALIGN=CENTER class="locationset">
+    <div ALIGN=CENTER class="locationset" style="margin-left:17vw;">
         Use my current location
     </div>
 
@@ -35,7 +35,7 @@
 
     <form method="POST" role="form">
 	
-	<div class="languageset"><div ALIGN=CENTER class="form-group">{{ form.language }}</div></div>
+	<div class="languageset" style="margin-left:17vw;"><div ALIGN=CENTER class="form-group" style="margin-left:25px;">{{ form.language }}</div></div>
 	<div ALIGN=CENTER><button type="Submit" class="btn btn-primary">SUBMIT</button></div>
 
     </form>   
