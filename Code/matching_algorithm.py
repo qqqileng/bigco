@@ -7,7 +7,7 @@ def get_allTheData():
 
     conn = db.connect("DATABASE=BLUDB;HOSTNAME=dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net;PORT=50000;PROTOCOL=TCPIP;UID=sfz85754;PWD=j0-9fgh89tfj30b8;", "", "")
 
-    df = pd.read_sql("SELECT * from TELLER", conn)
+    df = pd.read_sql("SELECT * from ADVISOR_DATA", conn)
 
     database = df.set_index('name').T.to_dict('dict')
     for key, value in database.items():
