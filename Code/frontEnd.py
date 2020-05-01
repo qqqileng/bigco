@@ -34,10 +34,6 @@ def success(name):
     tellers = run_algo('John Smith', d['language'], d['service'], 'NY')
 
 
-    sent_from = gmail_user
-    to = ['team.model2020@gmail.com']
-    subject = 'Hello'
-
     the_list = ['language', 'service', 'location', 'availability']
     for key1 in tellers:
 
