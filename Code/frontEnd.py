@@ -31,7 +31,7 @@ def success(name):
 
     tellers = {}
 
-    tellers = run_algo('John Smith', d['language'], d['service'], 'NY')
+    tellers = run_algo('Steve Smith', d['language'], d['service'], 'NY')
 
 
     the_list = ['language', 'service', 'location', 'availability']
@@ -117,7 +117,7 @@ def page(name4):
 
 
 if __name__ == '__main__': 
-   app.run(debug = True)
+   app.run(debug = False)
 
 
 
